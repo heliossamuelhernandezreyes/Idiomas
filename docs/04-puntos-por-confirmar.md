@@ -43,7 +43,7 @@ La última oración asigna **akroshil** tanto a «tal vez correré» como, en un
 - Número real de signos base y convenciones de composición, aún por documentar directamente.
 - Relación entre los grafemas y fonemas, sílabas, morfemas o palabras.
 
-## E. Método de revisión
+## F. Método de revisión
 
 Cada nueva aportación debe registrarse como una de estas cuatro situaciones:
 1. Nueva regla explícita del creador.
