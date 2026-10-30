@@ -1,0 +1,338 @@
+{
+  "project": "Idiomas",
+  "revision_date": "2026-10-30",
+  "source": "Enunciados del creador en la conversación de 2026; conservar las variantes literalmente.",
+  "note": "Los estados revisado_conflictivo y ambiguo no autorizan decidir equivalencias. Las formas experimentales no son reglas consolidadas.",
+  "entries": [
+    {
+      "expression": "ihsconateru",
+      "gloss": "soy un degustador",
+      "status": "confirmado"
+    },
+    {
+      "expression": "manih",
+      "gloss": "necesito",
+      "status": "confirmado"
+    },
+    {
+      "expression": "manish",
+      "gloss": "necesitamos",
+      "status": "confirmado"
+    },
+    {
+      "expression": "manal",
+      "gloss": "necesitaré",
+      "status": "confirmado"
+    },
+    {
+      "expression": "manhil",
+      "gloss": "podría necesitar",
+      "status": "confirmado"
+    },
+    {
+      "expression": "manas",
+      "gloss": "necesite",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ik manih",
+      "gloss": "yo necesito; identidad más explícita",
+      "status": "confirmado"
+    },
+    {
+      "expression": "manih na feredar",
+      "gloss": "necesito un motivo o explicación",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ik maní na feredar",
+      "gloss": "yo necesito un motivo o explicación (énfasis identitario)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "do",
+      "gloss": "hago",
+      "status": "confirmado"
+    },
+    {
+      "expression": "doih",
+      "gloss": "yo hago",
+      "status": "confirmado"
+    },
+    {
+      "expression": "thosdo",
+      "gloss": "tú haces",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deido",
+      "gloss": "él hace",
+      "status": "confirmado"
+    },
+    {
+      "expression": "doklish",
+      "gloss": "nosotros hacemos",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deidos",
+      "gloss": "ellos hacen",
+      "status": "confirmado"
+    },
+    {
+      "expression": "doas",
+      "gloss": "yo hice",
+      "status": "confirmado"
+    },
+    {
+      "expression": "idof",
+      "gloss": "yo no hago",
+      "status": "confirmado"
+    },
+    {
+      "expression": "doal",
+      "gloss": "haré; acción futura",
+      "status": "confirmado"
+    },
+    {
+      "expression": "idoal",
+      "gloss": "lo haré",
+      "status": "confirmado"
+    },
+    {
+      "expression": "dail",
+      "gloss": "haré en caso de que…",
+      "status": "confirmado"
+    },
+    {
+      "expression": "dahil",
+      "gloss": "haría",
+      "status": "confirmado"
+    },
+    {
+      "expression": "akrosh",
+      "gloss": "correr",
+      "status": "confirmado"
+    },
+    {
+      "expression": "akroshdo",
+      "gloss": "estoy corriendo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "acroshsor",
+      "gloss": "corre",
+      "status": "confirmado"
+    },
+    {
+      "expression": "akroshdal",
+      "gloss": "correré",
+      "status": "confirmado"
+    },
+    {
+      "expression": "akroshhil",
+      "gloss": "tal vez correré (primer ejemplo)",
+      "status": "revisado_conflictivo"
+    },
+    {
+      "expression": "akroshil",
+      "gloss": "tal vez correré (última corrección)",
+      "status": "revisado_conflictivo"
+    },
+    {
+      "expression": "akroshhil o akroshil",
+      "gloss": "correría (cita textual con doble forma)",
+      "status": "ambiguo"
+    },
+    {
+      "expression": "far",
+      "gloss": "incertidumbre",
+      "status": "confirmado"
+    },
+    {
+      "expression": "far'il",
+      "gloss": "futuro imperfecto orientado a uno mismo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "far'hil",
+      "gloss": "creo que lo haría",
+      "status": "confirmado"
+    },
+    {
+      "expression": "freidas",
+      "gloss": "¿podrías hacer? (orientado a otra persona)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "freidas akrosh",
+      "gloss": "¿podrías correr?",
+      "status": "confirmado"
+    },
+    {
+      "expression": "freidas soie thur lam",
+      "gloss": "¿podrías decirme tu nombre?",
+      "status": "confirmado"
+    },
+    {
+      "expression": "acroshih far'il",
+      "gloss": "construcción interna, significación precisa pendiente",
+      "status": "confirmado_sin_glosa"
+    },
+    {
+      "expression": "acroshi far'il",
+      "gloss": "forma empleada después; relación con la anterior por confirmar",
+      "status": "confirmado_sin_glosa"
+    },
+    {
+      "expression": "degosh",
+      "gloss": "qué; interrogativo general",
+      "status": "confirmado"
+    },
+    {
+      "expression": "degoshco",
+      "gloss": "cuál",
+      "status": "confirmado"
+    },
+    {
+      "expression": "degoshi",
+      "gloss": "quién",
+      "status": "confirmado"
+    },
+    {
+      "expression": "degoshda",
+      "gloss": "cómo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "degol",
+      "gloss": "cuándo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deimosh",
+      "gloss": "por qué",
+      "status": "confirmado"
+    },
+    {
+      "expression": "degosh tho",
+      "gloss": "¿quién eres? (natural en el contexto)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "degoshi tho",
+      "gloss": "¿quién eres? (más explícita, puede ser amistosa)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "tho degoshdal",
+      "gloss": "¿tú harás?",
+      "status": "confirmado"
+    },
+    {
+      "expression": "soie",
+      "gloss": "decir / hablar",
+      "status": "confirmado"
+    },
+    {
+      "expression": "see",
+      "gloss": "idioma",
+      "status": "confirmado"
+    },
+    {
+      "expression": "lam",
+      "gloss": "nombre",
+      "status": "confirmado"
+    },
+    {
+      "expression": "thur lam",
+      "gloss": "tu nombre",
+      "status": "confirmado"
+    },
+    {
+      "expression": "dojas thur lam",
+      "gloss": "dame tu nombre",
+      "status": "confirmado"
+    },
+    {
+      "expression": "serelam",
+      "gloss": "preséntame ante ti",
+      "status": "confirmado"
+    },
+    {
+      "expression": "soie lam",
+      "gloss": "soy llamado así por otros",
+      "status": "confirmado"
+    },
+    {
+      "expression": "kis lam",
+      "gloss": "me llamo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ih nam",
+      "gloss": "soy",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deioro",
+      "gloss": "canciones o rapsodias",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deioro déaio far'il",
+      "gloss": "siento que en el futuro cantarán canciones sobre mí",
+      "status": "confirmado"
+    },
+    {
+      "expression": "mirenee",
+      "gloss": "belleza (un signo escrito compuesto)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ik nam a jor",
+      "gloss": "soy un humano; también «solo soy un humano» contextual",
+      "status": "confirmado"
+    },
+    {
+      "expression": "jor",
+      "gloss": "humano / humanos",
+      "status": "confirmado"
+    },
+    {
+      "expression": "des",
+      "gloss": "él",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deish",
+      "gloss": "ellos",
+      "status": "confirmado"
+    },
+    {
+      "expression": "des en a jor",
+      "gloss": "él es un humano (forma expandida)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "des na jor",
+      "gloss": "él es un humano",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deish na jor",
+      "gloss": "ellos son humanos",
+      "status": "confirmado"
+    },
+    {
+      "expression": "nietch",
+      "gloss": "tengo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deish jor nietch",
+      "gloss": "ellos tienen un humano (sintaxis aún experimental)",
+      "status": "experimental"
+    }
+  ]
+}
