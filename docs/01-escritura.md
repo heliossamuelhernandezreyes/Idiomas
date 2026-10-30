@@ -24,3 +24,12 @@ Esto **no confirma** que se trate de un logograma: falta comprobar qué unidades
 5. Si los signos admiten abreviaciones o composiciones que excedan una palabra.
 
 Ninguna ilustración propuesta por el asistente equivale a los grafemas originales.
+
+## Datos históricos de la escritura (explicación del creador, 2025)
+
+- Cada letra podía tener **tres formas posicionales**: **apertura, central y final**; esto es distinto de los componentes vocálicos que se introducen en las consonantes.
+- En esa descripción el alfabeto **no distinguía mayúsculas y minúsculas**.
+- El creador ha indicado que conserva el alfabeto completo en una libreta y que llegó a utilizarlo para escribir su diario.
+- Se ha mencionado escritura vertical en antecedentes generales, pero su dirección exacta y reglas de disposición **no están verificadas con muestras gráficas**.
+
+Los datos de 2025 deben contrastarse con la versión actual, sin darlos por reglas inalterables. Para detalles, consultar [antecedentes de 2025](05-antecedentes-2025.md).
