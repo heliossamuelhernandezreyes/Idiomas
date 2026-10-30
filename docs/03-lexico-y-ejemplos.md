@@ -143,3 +143,12 @@ El creador precisó que la **consonante sh** participa en la pluralidad según e
 El creador también describió la alternancia **na/a** como una elección libre motivada por facilidad comunicativa: rapidez/agilidad frente a claridad, en ocasiones influida por el final de la palabra anterior, nunca por regla obligatoria. No establecer un reparto fijo entre consonantes y vocales.
 
 El vocabulario anterior (2025) está preservado por separado en [05 — antecedentes](05-antecedentes-2025.md), incluidos los numerales y las palabras históricas que no se confirmaron en esta sesión.
+
+## Aportación numérica reciente y propuesta SVO
+
+- **deish nietch na jor** se propuso explícitamente como forma **SVO** de «ellos tienen un humano». El orden es compatible con la propuesta, aunque sigue pendiente formalizar cómo concuerda *nietch* con *deish*. No se declara obligatoria.
+- **na** = «uno» en la serie numérica **actual**, además de su función de artículo indefinido.
+- **fa** = 9, **foz** = 0, formas actuales. *Fam* era la forma atestiguada en material histórico.
+- **nanya** = 10; **nanyana** = 11; **nanyanie** = 12; **nienyagom** = 25; **kendashnienyafa** = 619 según el creador, con composición aún por aclarar.
+
+Consultar [sistema numérico actual](07-numeracion-2026.md). No modificar el valor registrado para 619 mediante cálculo especulativo.
