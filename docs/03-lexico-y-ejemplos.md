@@ -104,4 +104,4 @@ Las segmentaciones como *man + ih*, *do + ih* y *degosh + i* son hipótesis úti
 
 El creador precisó que la **consonante sh** participa en la pluralidad según el contexto, sin obligación de modificar siempre el sustantivo. Además, en **des na jor**, **na** puede suplir la forma **en** («es») al tiempo que ejerce función de artículo, en lugar de la construcción expandida **des en a jor**.
 
-La oración «ellos tienen un humano» fue propuesta como contraste, pero **su traducción completa no se documenta todavía** porque falta la forma del verbo «tener».
+**Nietch** = «tengo» (forma confirmada). El creador propuso **deish jor nietch** como «ellos tienen un humano», pero **está considerando todavía si organizar los verbos así**. Registrar esta oración como ejemplo experimental, no como regla definitiva de orden SOV o de concordancia verbal.
