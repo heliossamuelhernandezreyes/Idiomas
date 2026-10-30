@@ -356,7 +356,7 @@
     },
     {
       "expression": "na",
-      "gloss": "artículo indefinido; variante flexible; también sustituye a en+a en des na jor",
+      "gloss": "1 (numeral), también artículo indefinido",
       "status": "confirmado"
     },
     {
@@ -408,6 +408,81 @@
       "expression": "akroshil / akroshhil",
       "gloss": "el creador destacó que -il y -hil son diferentes; traducciones finales pendientes de reconciliar",
       "status": "ambiguo"
+    },
+    {
+      "expression": "foz",
+      "gloss": "0",
+      "status": "confirmado"
+    },
+    {
+      "expression": "nie",
+      "gloss": "2",
+      "status": "confirmado"
+    },
+    {
+      "expression": "tu",
+      "gloss": "3",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ha",
+      "gloss": "4",
+      "status": "confirmado"
+    },
+    {
+      "expression": "gom",
+      "gloss": "5",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ken",
+      "gloss": "6",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ku",
+      "gloss": "7",
+      "status": "confirmado"
+    },
+    {
+      "expression": "len",
+      "gloss": "8",
+      "status": "confirmado"
+    },
+    {
+      "expression": "fa",
+      "gloss": "9 (forma actual)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "nanya",
+      "gloss": "10",
+      "status": "confirmado"
+    },
+    {
+      "expression": "nanyana",
+      "gloss": "11",
+      "status": "confirmado"
+    },
+    {
+      "expression": "nanyanie",
+      "gloss": "12",
+      "status": "confirmado"
+    },
+    {
+      "expression": "nienyagom",
+      "gloss": "25",
+      "status": "confirmado"
+    },
+    {
+      "expression": "kendashnienyafa",
+      "gloss": "619 según el creador; su composición queda por aclarar",
+      "status": "confirmado_con_composicion_pendiente"
+    },
+    {
+      "expression": "deish nietch na jor",
+      "gloss": "ellos tienen un humano, propuesta de orden SVO aún experimental",
+      "status": "experimental"
     }
   ]
 }
