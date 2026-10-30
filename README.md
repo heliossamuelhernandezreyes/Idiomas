@@ -13,6 +13,7 @@ Este repositorio comienza con la **transcripción y sistematización fiel** de l
 - [Antecedentes de 2025 — versión histórica](docs/05-antecedentes-2025.md)
 - [Auditoría del repositorio y decisiones editoriales](docs/06-auditoria.md)
 - [Corpus estructurado de frases](datos/corpus.json)
+- [Numeración actual — 2026](docs/07-numeracion-2026.md)
 
 ## Principio editorial
 
