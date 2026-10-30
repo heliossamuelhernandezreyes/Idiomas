@@ -91,3 +91,17 @@ Las segmentaciones como *man + ih*, *do + ih* y *degosh + i* son hipótesis úti
 - **jor** = «humano».
 - **na / a** = formas del artículo indefinido, comparable en función a *a/an* del inglés. El hablante elige entre ambas según le resulte más fácil comunicar, pudiendo privilegiar agilidad o claridad; la terminación de la palabra anterior influye en la comodidad, pero no impone una selección fija.
 - Segmentación confirmada en el ejemplo: **ik** (identidad del hablante), **nam** (ser), **a** (artículo indefinido), **jor** (humano).
+
+## Número contextual y predicación nominal (aportación posterior)
+
+| Forma | Traducción confirmada |
+|---|---|
+| jor | humano / humanos |
+| des | él |
+| deish | ellos |
+| des na jor | él es un humano |
+| deish na jor | ellos son humanos |
+
+El creador precisó que la **consonante sh** participa en la pluralidad según el contexto, sin obligación de modificar siempre el sustantivo. Además, en **des na jor**, **na** puede suplir la forma **en** («es») al tiempo que ejerce función de artículo, en lugar de la construcción expandida **des en a jor**.
+
+La oración «ellos tienen un humano» fue propuesta como contraste, pero **su traducción completa no se documenta todavía** porque falta la forma del verbo «tener».
