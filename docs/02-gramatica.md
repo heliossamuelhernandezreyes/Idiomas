@@ -119,3 +119,18 @@ No afirmar todavía que *kis* sea un reflexivo general ni que *serelam* se deriv
 - **na** = otra forma del artículo indefinido, según el creador.
 
 La lectura «solo» es una interpretación pragmática posible, **no** evidencia de un morfema de exclusividad. Tampoco se ha comprobado explícitamente que *ik nam na jor* sea igualmente aceptable en este contexto.
+
+## 6. Número contextual, pronombres y predicación nominal
+
+**CONFIRMADO POR EL CREADOR**
+- **jor** significa «humano» **y** «humanos»: el sustantivo puede permanecer idéntico en singular y plural, según el contexto.
+- **des na jor** = «él es un humano».
+- **deish na jor** = «ellos son humanos».
+- **des** = «él» y **deish** = «ellos», según esos ejemplos.
+- La **consonante sh** interviene en la expresión del **plural**, pero su realización y necesidad dependen del contexto. No se afirma que todo sustantivo plural deba llevar `-sh` ni que siempre sea un sufijo.
+- En una construcción como **des na jor**, **na** puede **reemplazar al elemento en** («es», en la construcción expandida **des en a jor**) al mismo tiempo que funciona como artículo. De este modo, una forma puede reunir predicación y determinación nominal.
+- Esto **no** significa que `na` deba ser siempre cópula: también es artículo indefinido en otros contextos.
+
+**Ejercicio pendiente:** el creador planteó la frase «ellos tienen un humano». Se puede identificar *deish* («ellos»), *jor* («humano») y el artículo *a/na*, pero **no se proporcionó aún el verbo «tener» ni su conjugación**, así que no hay traducción completa confirmada. No confundir «ellos son humanos» con «ellos tienen un humano».
+
+**No deducir:** que `deish = dei + sh` sea una segmentación universal ni que `na = en + a` sea siempre su formación fonológica; lo confirmado es el **funcionamiento** contextual descrito por el creador.
