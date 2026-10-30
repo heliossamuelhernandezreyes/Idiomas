@@ -33,7 +33,11 @@ La última oración asigna **akroshil** tanto a «tal vez correré» como, en un
 - Persona, número, tiempo y modo: falta una tabla completa de cada paradigma.
 - La función de **-dal**, **-ail**, **-al**, **-as**, **-ish**, **-s**, **-ih**, **-il** y **-hil** fuera de ejemplos individuales.
 
-## D. Escritura
+## D. Variación del artículo indefinido
+
+**Confirmado:** **na** y **a** son artículos indefinidos; la selección depende preferentemente de la terminación de la **palabra anterior**, pero la regla **no es estricta**. Falta identificar qué finales suelen favorecer cada forma y qué variaciones son aceptables. No asumir reglas del *a/an* inglés.
+
+## E. Escritura
 
 - Ausencia de muestras visuales originales.
 - Número real de signos base y convenciones de composición, aún por documentar directamente.
