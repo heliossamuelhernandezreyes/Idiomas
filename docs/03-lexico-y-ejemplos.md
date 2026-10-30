@@ -149,6 +149,6 @@ El vocabulario anterior (2025) está preservado por separado en [05 — antecede
 - **deish nietch na jor** se propuso explícitamente como forma **SVO** de «ellos tienen un humano». El orden es compatible con la propuesta, aunque sigue pendiente formalizar cómo concuerda *nietch* con *deish*. No se declara obligatoria.
 - **na** = «uno» en la serie numérica **actual**, además de su función de artículo indefinido.
 - **fa** = 9, **foz** = 0, formas actuales. *Fam* era la forma atestiguada en material histórico.
-- **nanya** = 10; **nanyana** = 11; **nanyanie** = 12; **nienyagom** = 25; **kendashnienyafa** = 619 según el creador, con composición aún por aclarar.
+- **nanya** = 10; **nanyana** = 11; **nanyanie** = 12; **nienyagom** = 25; **kendashnienyafa** = **629** (el creador corrigió expresamente la cifra 619); la función independiente de *dash* queda por documentar.
 
 Consultar [sistema numérico actual](07-numeracion-2026.md). No modificar el valor registrado para 619 mediante cálculo especulativo.
