@@ -111,7 +111,7 @@ No afirmar todavía que *kis* sea un reflexivo general ni que *serelam* se deriv
 
 ## 5. Artículos indefinidos y construcción nominal
 
-**CONFIRMADO:** **na** y **a** son realizaciones del artículo indefinido, de función comparable al inglés *a/an* («un/una»). **Corrección confirmada por el creador:** la preferencia entre **na** y **a** depende de **cómo termina la palabra anterior**, pero **no es una regla estricta**. La comparación con *a/an* inglés es funcional: en inglés se considera el sonido siguiente, mientras aquí importa preferentemente el sonido precedente. Aún no se conocen las terminaciones que favorecen cada variante.
+**CONFIRMADO:** **na** y **a** son formas del artículo indefinido, de función comparable al inglés *a/an* («un/una»). Su elección **no se rige por una regla fonológica estricta**: el hablante escoge la forma que le facilite comunicar, dependiendo de si prioriza **agilidad** o **claridad**. El final de la palabra anterior puede influir en cuál resulta más cómoda, pero no determina obligatoriamente una variante. Esta alternancia es flexible, con condicionamiento fonético y pragmático, y no hay reglas documentadas del tipo «tras vocal siempre na» o «tras consonante siempre a».
 
 - **ik nam a jor** = «soy un humano»; dependiendo del contexto también puede interpretarse «solo soy un humano».
 - **jor** = «humano».
