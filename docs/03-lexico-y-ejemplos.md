@@ -84,3 +84,10 @@ Esta lista conserva formas originales y traducciones del creador. Los espacios, 
 En el intercambio se mencionaron **kron**, **kroón**, **kroen**, **acronidem**, **nan**, **aru**, **dore** y otros elementos atribuidos a conversaciones anteriores. Se mantienen **fuera del léxico confirmado de este registro** hasta cotejarlos con fuentes originales o con el creador.
 
 Las segmentaciones como *man + ih*, *do + ih* y *degosh + i* son hipótesis útiles, no definiciones morfológicas autorizadas.
+
+## Aportación posterior: «Ik nam a jor»
+
+- **Ik nam a jor** = «soy un humano»; también puede interpretarse como «solo soy un humano» según el contexto. Es el título de una composición musical del creador.
+- **jor** = «humano».
+- **na / a** = formas del artículo indefinido, comparable en función a *a/an* del inglés. Su distribución exacta no está definida todavía.
+- Segmentación confirmada en el ejemplo: **ik** (identidad del hablante), **nam** (ser), **a** (artículo indefinido), **jor** (humano).
