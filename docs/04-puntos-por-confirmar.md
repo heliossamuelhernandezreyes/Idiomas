@@ -57,6 +57,6 @@ Cada nueva aportación debe registrarse como una de estas cuatro situaciones:
 
 **Confirmado:** **jor** puede significar tanto «humano» como «humanos». **des na jor** = «él es un humano», **deish na jor** = «ellos son humanos». La consonante **sh** se relaciona con la pluralidad, pero el uso es contextual. **na** puede cumplir la función del artículo y, en ciertos contextos predicativos, suplir **en**, como alternativa a «des en a jor».
 
-**Pendiente:** mecanismo completo de la pluralidad y de **sh** (posición, concordancia, sustantivos y pronombres); distribución exacta de **na** como artículo frente a elemento de predicación; conjugación del verbo «tener» para traducir «ellos tienen un humano».
+**Pendiente:** mecanismo completo de la pluralidad y de **sh** (posición, concordancia, sustantivos y pronombres); distribución exacta de **na** como artículo frente a elemento de predicación; comportamiento de **nietch** («tengo») cuando un sujeto distinto aparece explícitamente; el creador propone **deish jor nietch** para «ellos tienen un humano», pero no ha decidido todavía si adoptar esa construcción como regla.
 
 **Advertencia:** no afirmar que «deish na jor» significa posesión: su significado confirmado es «ellos son humanos».
