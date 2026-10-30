@@ -105,3 +105,41 @@ Las segmentaciones como *man + ih*, *do + ih* y *degosh + i* son hipótesis úti
 El creador precisó que la **consonante sh** participa en la pluralidad según el contexto, sin obligación de modificar siempre el sustantivo. Además, en **des na jor**, **na** puede suplir la forma **en** («es») al tiempo que ejerce función de artículo, en lugar de la construcción expandida **des en a jor**.
 
 **Nietch** = «tengo» (forma confirmada). El creador propuso **deish jor nietch** como «ellos tienen un humano», pero **está considerando todavía si organizar los verbos así**. Registrar esta oración como ejemplo experimental, no como regla definitiva de orden SOV o de concordancia verbal.
+
+## Complemento tras la auditoría: vocabulario y construcciones omitidos
+
+| Forma | Valor registrado | Estado |
+|---|---|---|
+| a / na | artículo indefinido flexible; elegido según agilidad o claridad | Confirmado en 2026 |
+| jor | humano / humanos, según contexto | Confirmado en 2026 |
+| des | él | Confirmado en 2026 |
+| deish | ellos | Confirmado en 2026 |
+| en | forma usada en la construcción extendida «des en a jor» | Confirmado solo para este uso |
+| tho | segunda persona, en «degosh tho» y «tho degoshdal» | Ejemplos confirmados; categoría exacta pendiente |
+| thur | tu, en «thur lam» | Ejemplo confirmado |
+| nietch | tengo | Confirmado en 2026 |
+| akroshil | «tal vez correré» en la corrección más reciente | Confirmado como glosa explícita; conflicto posterior en la misma intervención |
+| akroshhil | primero «tal vez correré» y luego aparece asociado con «correría» | Uso por resolver sin cambiar la grafía |
+
+### Construcciones completas incorporadas
+
+| Forma | Traducción o función | Estado |
+|---|---|---|
+| ik nam a jor | soy un humano; también «solo soy un humano» contextual | Confirmado |
+| des en a jor | él es un humano (construcción expandida) | Confirmado |
+| des na jor | él es un humano | Confirmado |
+| deish na jor | ellos son humanos | Confirmado |
+| nietch | tengo | Confirmado |
+| deish jor nietch | ellos tienen un humano | **Propuesta del creador todavía en evaluación** |
+| akroshhil | tal vez correré (ejemplo inicial) | Confirmado históricamente en esta conversación; **revisado posteriormente** |
+| akroshil | tal vez correré (última formulación) | Confirmado como enunciado; **ambiguo frente a «correría»** |
+| far'hil | creo que lo haría | Confirmado |
+| do | hago; verbo hacer (no necesitar) | Confirmado |
+| doih | yo hago | Confirmado |
+| doas | yo hice | Confirmado |
+| idof | yo no hago | Confirmado |
+| akroshdo | estoy corriendo | Confirmado |
+
+El creador también describió la alternancia **na/a** como una elección libre motivada por facilidad comunicativa: rapidez/agilidad frente a claridad, en ocasiones influida por el final de la palabra anterior, nunca por regla obligatoria. No establecer un reparto fijo entre consonantes y vocales.
+
+El vocabulario anterior (2025) está preservado por separado en [05 — antecedentes](05-antecedentes-2025.md), incluidos los numerales y las palabras históricas que no se confirmaron en esta sesión.
