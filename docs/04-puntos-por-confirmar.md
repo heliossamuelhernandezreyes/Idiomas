@@ -35,7 +35,7 @@ La última oración asigna **akroshil** tanto a «tal vez correré» como, en un
 
 ## D. Variación del artículo indefinido
 
-**Confirmado:** **na** y **a** son artículos indefinidos; la selección depende preferentemente de la terminación de la **palabra anterior**, pero la regla **no es estricta**. Falta identificar qué finales suelen favorecer cada forma y qué variaciones son aceptables. No asumir reglas del *a/an* inglés.
+**Confirmado:** **na** y **a** son formas del artículo indefinido, seleccionadas con flexibilidad por **facilidad de comunicación**, en función de la **agilidad** o la **claridad** que quiera el hablante. El final de la palabra anterior puede influir, pero no existe una correspondencia rígida documentada. No trasladar reglas del *a/an* inglés. **Pendiente:** recopilar ejemplos de preferencias fonéticas reales, sin imponer distribución obligatoria.
 
 ## E. Escritura
 
@@ -60,3 +60,15 @@ Cada nueva aportación debe registrarse como una de estas cuatro situaciones:
 **Pendiente:** mecanismo completo de la pluralidad y de **sh** (posición, concordancia, sustantivos y pronombres); distribución exacta de **na** como artículo frente a elemento de predicación; comportamiento de **nietch** («tengo») cuando un sujeto distinto aparece explícitamente; el creador propone **deish jor nietch** para «ellos tienen un humano», pero no ha decidido todavía si adoptar esa construcción como regla.
 
 **Advertencia:** no afirmar que «deish na jor» significa posesión: su significado confirmado es «ellos son humanos».
+
+## Auditoría histórica: diferencias entre 2025 y 2026
+
+- **Pronombres:** *Shu / Derelem / Iklish* históricos frente a *tho / deish / doklish* actuales. No declarar equivalencia ni sustitución sin confirmación.
+- **Número:** *Na* = «uno» en un sistema numérico histórico, frente a *na/a* artículo en 2026. No atribuir relación etimológica ni usar mayúsculas como criterio definitivo de distinción, puesto que la escritura descrita no usaba distinción de caja.
+- **Fam:** en documentación histórica aparece como «nueve» y también «mucho»; falta comprobar polisemia o diferencias de versión.
+- **-do:** en un conjunto histórico se asoció con objetos/relaciones nominales; en *akroshdo* actual marca «estoy corriendo». No universalizar sin contraste.
+- **-no:** previamente vinculado a ciertas formas verbales, no documentado en el paradigma actual de *do*. No tratar como abolido ni como vigente en todas las formas.
+- **ik nam a jor / ik nam a Joroga:** variantes de vocabulario o época aún no comparadas.
+- **SOV y nietch:** «deish jor nietch» es una propuesta, no una decisión gramatical definitiva.
+
+Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidencia.
