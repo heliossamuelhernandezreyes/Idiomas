@@ -134,3 +134,19 @@ La lectura «solo» es una interpretación pragmática posible, **no** evidencia
 **Nuevo ejemplo del creador:** **nietch** = «tengo». Para «ellos tienen un humano» propuso **deish jor nietch**. El propio creador aclaró que **todavía está pensando si quiere construir así los verbos**. Se conserva por tanto como **propuesta en evaluación**, no regla general establecida. El ejemplo presenta superficialmente un orden sujeto–objeto–verbo (**SOV**). La forma aislada *nietch* significa «tengo», pero su uso con *deish* no basta para demostrar una conjugación invariable: podría depender del sujeto expreso o de una convención aún no especificada. No confundir «deish na jor» («ellos son humanos») con esta construcción posesiva.
 
 **No deducir:** que `deish = dei + sh` sea una segmentación universal ni que `na = en + a` sea siempre su formación fonológica; lo confirmado es el **funcionamiento** contextual descrito por el creador.
+
+## 7. Relación con reglas anteriores (histórico, no paradigma nuevo)
+
+En explicaciones de 2025 el creador utilizaba **Nam = ser**, **Nan = estar**, **Ik = yo/identidad**, **Shu = tú**, **Derelem = ellos**, **Iklish = nosotros**; también se documentó **Ikefo** como «soy yo», empleado de modo informal para identificarse. Son formas **históricas del mismo idioma**, aún no cotejadas individualmente con las expresiones actuales **tho, des, deish** y las conjugaciones de *do*. No suponer que las antiguas estén abolidas ni que sean necesariamente sinónimos intercambiables.
+
+En 2025 el creador explicó que **-no** solía aparecer en verbos de presente o formas verbales (por ejemplo *sconateno*, *durotano*, *lereno*), y que **-do** podía marcar objeto o relación nominal, con excepciones como *gakrozdo* («vehículo»). En 2026 dio **akroshdo = estoy corriendo**. **Estos usos de -do no se deben identificar automáticamente como un solo morfema.** Cabe que haya homonimia, polisemia, evolución histórica o una segmentación distinta; aún no hay regla global confirmada.
+
+En el material histórico también se documentaron **-ish** asociado al plural, **Ikron** («me muevo») como contracción, **Ik durotano** («voy a algún lugar») e **Ikis do Monda** («transito por el día»). La relación exacta con los usos actuales de *-sh*, *-ish*, *-do* y de sujeto implícito debe examinarse sin imponer regularidades.
+
+### Precisión sobre nietch y el orden de palabras
+
+El creador dio **nietch = tengo** y propuso **deish jor nietch = ellos tienen un humano**. Inmediatamente aclaró que **sigue pensando si construir así los verbos**. El orden SOV es **un patrón posible de este ejemplo**, no el orden sintáctico demostrado del idioma. No es válido deducir que *nietch* sea invariable ni que todo sujeto expreso cancele la conjugación.
+
+### Evidencia versus teoría
+
+Las clasificaciones «aglutinante», «fusional», «analítico» y «SOV» que aparecieron en respuestas del asistente son **análisis provisionales**, no reglas declaradas por el creador. La polifuncionalidad de *na*, el sujeto implícito, la orientación de *freidas* y la distinción entre futuro, posibilidad y condición **sí** están sustentadas en explicaciones directas.
