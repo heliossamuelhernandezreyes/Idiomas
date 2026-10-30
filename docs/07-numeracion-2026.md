@@ -23,13 +23,13 @@ La última serie fue aportada explícitamente como: «na, nie, tu, ha, gom, Ken,
 
 ## Composición: ejemplos expresamente proporcionados
 
-| Valor comunicado | Forma |
+| Valor confirmado tras corrección | Forma |
 |---:|---|
 | 10 | nanya |
 | 11 | nanyana |
 | 12 | nanyanie |
 | 25 | nienyagom |
-| 619 | kendashnienyafa |
+| 629 | kendashnienyafa |
 
 ### Análisis sustentado en ejemplos
 
@@ -38,13 +38,13 @@ La última serie fue aportada explícitamente como: «na, nie, tu, ha, gom, Ken,
 - **na** también es un **artículo indefinido** en la gramática contemporánea; el numeral uno y el artículo pueden coincidir formalmente. El creador no ha definido si son etimológicamente el mismo elemento o dos funciones homónimas.
 - La forma **dash** no ha sido definida expresamente como centena en esta conversación. Documentarla como elemento presente en *kendashnienyafa*, sin equipararla automáticamente con *nish* histórico.
 
-### Inconsistencia aritmética posible: ejemplo «619»
+### Corrección explícita del creador: 629
 
-Si *ken-dash* representa 600 y *nie-nya* representa 20 (como sugiere *nienyagom = 25*), *kendashnienyafa* se leería **629**, no **619**. No se corrige el enunciado del creador hasta conocer el valor exacto de *dash* y sus reglas de combinación. La palabra original permanece intacta.
+El creador confirmó que **kendashnienyafa = 629**, rectificando el 619 indicado inicialmente. La secuencia *nie-nya* encaja con 20 y *fa* con 9. El elemento *dash* sigue pendiente de definición independiente, aunque la palabra completa y su valor **629** ya están confirmados.
 
 ## Pendiente
 
 1. Definición actual de **dash**, y cómo se forman centenas y miles.
-2. Confirmar si *kendashnienyafa* realmente representa 619, si hay una regla especial o si se trata de una errata.
+2. **Resuelto:** *kendashnienyafa* representa **629**, según corrección explícita del creador. Falta definir el componente *dash* por separado.
 3. Definir la relación entre **na** numeral / **na** artículo.
 4. Confirmar cuándo se admiten alternancias de pronunciación o escritura de los numerales.
