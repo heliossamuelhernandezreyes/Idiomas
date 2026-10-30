@@ -333,6 +333,81 @@
       "expression": "deish jor nietch",
       "gloss": "ellos tienen un humano (sintaxis aún experimental)",
       "status": "experimental"
+    },
+    {
+      "expression": "ik",
+      "gloss": "identidad explícita del hablante; k atenuada en pronunciación",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ih",
+      "gloss": "realización fonética posible de ik; k débil o muda",
+      "status": "confirmado"
+    },
+    {
+      "expression": "nam",
+      "gloss": "verbo ser; «soy» en ih nam",
+      "status": "confirmado"
+    },
+    {
+      "expression": "a",
+      "gloss": "artículo indefinido; variante flexible",
+      "status": "confirmado"
+    },
+    {
+      "expression": "na",
+      "gloss": "artículo indefinido; variante flexible; también sustituye a en+a en des na jor",
+      "status": "confirmado"
+    },
+    {
+      "expression": "-al",
+      "gloss": "marca futuro confirmado",
+      "status": "confirmado"
+    },
+    {
+      "expression": "-sh",
+      "gloss": "consonante relacionada con pluralidad, uso dependiente del contexto",
+      "status": "confirmado"
+    },
+    {
+      "expression": "tho",
+      "gloss": "referencia a segunda persona en ejemplos; valor preciso como pronombre pendiente",
+      "status": "confirmado_sin_glosa"
+    },
+    {
+      "expression": "thur",
+      "gloss": "tu, en thur lam",
+      "status": "confirmado"
+    },
+    {
+      "expression": "en",
+      "gloss": "elemento de predicación en des en a jor",
+      "status": "confirmado_sin_glosa"
+    },
+    {
+      "expression": "feredar",
+      "gloss": "motivo o explicación en manih na feredar",
+      "status": "confirmado"
+    },
+    {
+      "expression": "dojas",
+      "gloss": "dame",
+      "status": "confirmado"
+    },
+    {
+      "expression": "dohhas",
+      "gloss": "dame; variante de dojas mencionada por el creador",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ias",
+      "gloss": "elemento/verbo aludido con manas; pendiente de definir",
+      "status": "confirmado_sin_glosa"
+    },
+    {
+      "expression": "akroshil / akroshhil",
+      "gloss": "el creador destacó que -il y -hil son diferentes; traducciones finales pendientes de reconciliar",
+      "status": "ambiguo"
     }
   ]
 }
