@@ -108,3 +108,14 @@ No asignar automáticamente a *degosh* una función única equivalente al sistem
 - **ih nam** = «soy».
 
 No afirmar todavía que *kis* sea un reflexivo general ni que *serelam* se derive productivamente de *lam*: falta análisis explícito del creador.
+
+## 5. Artículos indefinidos y construcción nominal
+
+**CONFIRMADO:** **na** y **a** son realizaciones del artículo indefinido, de función comparable al inglés *a/an* («un/una»). No se ha confirmado qué condiciones regulan la selección entre ambas formas; la comparación con inglés es funcional, no implica que tengan su misma distribución fonética.
+
+- **ik nam a jor** = «soy un humano»; dependiendo del contexto también puede interpretarse «solo soy un humano».
+- **jor** = «humano».
+- **a** = artículo indefinido en este ejemplo.
+- **na** = otra forma del artículo indefinido, según el creador.
+
+La lectura «solo» es una interpretación pragmática posible, **no** evidencia de un morfema de exclusividad. Tampoco se ha comprobado explícitamente que *ik nam na jor* sea igualmente aceptable en este contexto.
