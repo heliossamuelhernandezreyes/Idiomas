@@ -89,5 +89,5 @@ Las segmentaciones como *man + ih*, *do + ih* y *degosh + i* son hipótesis úti
 
 - **Ik nam a jor** = «soy un humano»; también puede interpretarse como «solo soy un humano» según el contexto. Es el título de una composición musical del creador.
 - **jor** = «humano».
-- **na / a** = formas del artículo indefinido, comparable en función a *a/an* del inglés. Su distribución exacta no está definida todavía.
+- **na / a** = formas del artículo indefinido, comparable en función a *a/an* del inglés. Su elección depende preferentemente de cómo termina la palabra anterior, sin obligatoriedad estricta. No están especificadas aún las condiciones fonéticas exactas.
 - Segmentación confirmada en el ejemplo: **ik** (identidad del hablante), **nam** (ser), **a** (artículo indefinido), **jor** (humano).
