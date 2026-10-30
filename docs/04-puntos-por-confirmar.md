@@ -52,3 +52,11 @@ Cada nueva aportación debe registrarse como una de estas cuatro situaciones:
 4. Hipótesis lingüística del analista, marcada siempre como no confirmada.
 
 **Objetivo:** preservar la lengua como fue creada antes de proponer extensiones, evitando confundir una conjetura analítica con la gramática original.
+
+## Número gramatical y posesión verbal (nueva precisión)
+
+**Confirmado:** **jor** puede significar tanto «humano» como «humanos». **des na jor** = «él es un humano», **deish na jor** = «ellos son humanos». La consonante **sh** se relaciona con la pluralidad, pero el uso es contextual. **na** puede cumplir la función del artículo y, en ciertos contextos predicativos, suplir **en**, como alternativa a «des en a jor».
+
+**Pendiente:** mecanismo completo de la pluralidad y de **sh** (posición, concordancia, sustantivos y pronombres); distribución exacta de **na** como artículo frente a elemento de predicación; conjugación del verbo «tener» para traducir «ellos tienen un humano».
+
+**Advertencia:** no afirmar que «deish na jor» significa posesión: su significado confirmado es «ellos son humanos».
