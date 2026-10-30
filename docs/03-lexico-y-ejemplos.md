@@ -79,9 +79,9 @@ Esta lista conserva formas originales y traducciones del creador. Los espacios, 
 4. **freidas** es externa; **acroshih far'il** se dio como interna.
 5. La atribución de *-il* y *-hil* sigue sin resolverse formalmente: ver [puntos pendientes](04-puntos-por-confirmar.md).
 
-## Antecedentes mencionados por el asistente, no ratificados aquí
+## Antecedentes históricos y estatus
 
-En el intercambio se mencionaron **kron**, **kroón**, **kroen**, **acronidem**, **nan**, **aru**, **dore** y otros elementos atribuidos a conversaciones anteriores. Se mantienen **fuera del léxico confirmado de este registro** hasta cotejarlos con fuentes originales o con el creador.
+En esta conversación de 2026 el asistente mencionó **kron**, **kroón**, **kroen**, **acronidem**, **nan**, **aru** y **dore**. Una revisión posterior de conversaciones de 2025 **sí recuperó declaraciones anteriores del creador** sobre *Nan*, *Aru*, *Dore* y varias formas relacionadas con *Kron*. Por eso ya no deben describirse simplemente como invenciones del asistente: están documentadas como **históricas** en [05 — antecedentes de 2025](05-antecedentes-2025.md). En cambio, *kroón*, *kroen* y *acronidem* no han sido ratificadas con suficiente precisión para declararlas actuales. La terminología y las equivalencias del idioma contemporáneo siguen pendientes de cotejo.
 
 Las segmentaciones como *man + ih*, *do + ih* y *degosh + i* son hipótesis útiles, no definiciones morfológicas autorizadas.
 
