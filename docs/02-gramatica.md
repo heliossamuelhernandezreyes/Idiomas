@@ -150,3 +150,11 @@ El creador dio **nietch = tengo** y propuso **deish jor nietch = ellos tienen un
 ### Evidencia versus teoría
 
 Las clasificaciones «aglutinante», «fusional», «analítico» y «SOV» que aparecieron en respuestas del asistente son **análisis provisionales**, no reglas declaradas por el creador. La polifuncionalidad de *na*, el sujeto implícito, la orientación de *freidas* y la distinción entre futuro, posibilidad y condición **sí** están sustentadas en explicaciones directas.
+
+## 8. Orden predominante aún por elegir (comparación de 2026)
+
+A la pregunta del creador de si una construcción SVO sería **«deish nietch na jor»** («ellos tienen un humano»), el análisis confirma que **su orden superficial es S–V–O**: *deish* (ellos), *nietch* (tengo, con sujeto plural explícito), *na jor* (un humano). **No es todavía una forma conjugacional ratificada como definitiva**: el creador está decidiendo cómo funcionará *nietch* con sujetos diferentes.
+
+Otros ejemplos propios ya dados, como **ik maní na feredar** (SVO) y **dojas thur lam** (VO, imperativo), muestran verbo antes de objeto. **SVO es una recomendación analítica razonable de orden predominante**, no una regla obligatoria anunciada por el creador. La forma experimental anterior **deish jor nietch** es SOV y sigue conservada, no eliminada.
+
+El artículo **na** también significa **uno** como numeral, confirmado en la serie numérica actual; falta saber cuándo lo interpreta el hablante como numeral frente a artículo. Ver [numeración](07-numeracion-2026.md).
