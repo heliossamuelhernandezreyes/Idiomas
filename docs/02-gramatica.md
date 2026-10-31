@@ -183,3 +183,20 @@ El creador propuso y **aceptó expresamente** la siguiente oposición. Es una **
 **Ejemplo del creador:** *deimaneish tu jor's* = «ellos necesitan tres humanos». Aquí el número *tu* («tres») también aporta información cuantitativa; aún no se ha determinado si la doble indicación de plural es obligatoria, opcional o enfática. *Jor* puede ser «humano/humanos» sin cambio formal, aunque en este ejemplo aparece *jor's*.
 
 La distinción deja de tratar *deimanish* y *deimaneish* como formas simplemente intercambiables o redundantes: pueden expresar **diferentes grados de especificidad sobre la cantidad del objeto**.
+
+## 11. Querer y negación: raíz lav y elemento off
+
+**Decisión explícita del creador:** **lav** será el verbo **«querer»** y **off** será el elemento de **negación**.
+
+**Ejemplos aportados en la conversación:**
+- **thoslaf** — «tú quieres» (forma afirmativa comentada).
+- **thosloff** — «tú no quieres» (corrección expresa del creador a la frase interrogativa original).
+- La oración original se escribió **«Deimos thoslaf sei dhiel»** con traducción «¿Por qué no quieres hablar conmigo?»; después se corrigió **thoslaf → thosloff** para representar la negación.
+
+**No generalizar sin comprobación:**
+- El creador señaló una alternancia **af → off** en este ejemplo; no ha definido aún una regla de transformación universal de *lav + off* a *loff* ni la distribución de las grafías *lav, laff, laf*.
+- **idof** ya significa «yo no hago», pero falta determinar su relación morfológica exacta con **off**. No reanalizar *idof* ni reemplazarlo por una forma nueva sin instrucción.
+- No adoptar *lov* como nueva raíz: fue una alternativa del analista, **descartada frente a lav** por decisión del creador.
+- Las reglas de negación de todos los tiempos, personas y verbos no están todavía especificadas.
+
+La forma **off** está confirmada como elemento gramatical de negación; su realización exacta en el interior de cada conjugación sigue abierta.
