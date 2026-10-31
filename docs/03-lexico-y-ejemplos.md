@@ -257,4 +257,18 @@ Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión 
 | **ih nam** | soy, variante con debilitamiento de *ik* |
 | **iè namih** | quién soy, en contexto de identidad no interrogativa |
 
-**Notas:** no identificar automáticamente *orofe* con *orome + off*. No convertir *minas* en un pasado perfecto obligatorio; el creador indicó que *-as* marca pasado. La relación con el «que» subordinante se entiende por la oración completa, pero el creador todavía no ha aportado una descomposición específica de esa subordinación.
+**Notas:** no identificar automáticamente *orofe* con *orome + off*. No convertir *minas* en un pasado perfecto obligatorio; el creador indicó que *-as* marca pasado. El creador explicó posteriormente una distinción opcional de perspectiva verbal mediante **di'** y **de'**; ver los ejemplos que siguen. No equivale a definir un «que» obligatorio.
+
+## Prefijos de referencia personal di' / de' y subordinación implícita
+
+| Forma | Valor expresado |
+|---|---|
+| **di'** | orientación hacia uno mismo cuando precede al verbo con apóstrofo |
+| **de'** | orientación hacia otro individuo cuando precede al verbo con apóstrofo |
+| **di'minas** | vi (pasado) |
+| **de'minas** | vio (pasado) |
+| **de houl di'minas tesa orofe iè namih** | propuesta del creador para «el hombre que yo vi ayer no sabe quién soy» |
+| **de houl de'minas tesa orofe iè namih** | propuesta del creador para «el hombre que me vio ayer no sabe quién soy»; el complemento «me» es contextual, no significado independiente de *de'* |
+| **de houl minas tesa so orofe iè namih** | «el hombre vio ayer que no sabe quién soy»; frase de contraste expresada por el creador |
+
+**Distinción formal:** *de houl* es el sintagma «el hombre», mientras *de'minas* lleva un elemento inicial con apóstrofo. La función de **so** solo está respaldada por esta frase; no generalizarla todavía como «que» universal. Los prefijos no son por sí mismos pronombres relativos, sino marcas de relación personal verbal.
