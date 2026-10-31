@@ -613,6 +613,31 @@
       "expression": "oroboros monihdo",
       "gloss": "tal vez mañana yo haré",
       "status": "confirmado"
+    },
+    {
+      "expression": "ildoe",
+      "gloss": "yo hubiera hecho por ti o por otros; beneficiario contextual y significado propio",
+      "status": "confirmado"
+    },
+    {
+      "expression": "erodaga",
+      "gloss": "si tú hubieras cumplido cierta condición; condición inicialmente no especificada",
+      "status": "confirmado"
+    },
+    {
+      "expression": "seihil",
+      "gloss": "me hubieras dicho; el creador indica composición de sei y hil",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ich",
+      "gloss": "verbo pedir",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ildoe erodaga seihil ich",
+      "gloss": "yo lo habría hecho si tú me lo hubieras pedido",
+      "status": "confirmado"
     }
   ]
 }
