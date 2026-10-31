@@ -523,6 +523,31 @@
       "expression": "deimaneish tu jor's",
       "gloss": "ellos necesitan tres humanos",
       "status": "confirmado"
+    },
+    {
+      "expression": "lav",
+      "gloss": "querer; raíz elegida por el creador",
+      "status": "confirmado"
+    },
+    {
+      "expression": "off",
+      "gloss": "negación; elemento fijado por el creador",
+      "status": "confirmado"
+    },
+    {
+      "expression": "thoslaf",
+      "gloss": "tú quieres; forma afirmativa reconocida en la conversación",
+      "status": "confirmado"
+    },
+    {
+      "expression": "thosloff",
+      "gloss": "tú no quieres; corrección explícita de la forma negativa",
+      "status": "confirmado"
+    },
+    {
+      "expression": "Deimos thoslaf sei dhiel",
+      "gloss": "¿Por qué no quieres hablar conmigo?; oración aportada inicialmente, luego corregida en thosloff",
+      "status": "revisado_conflictivo"
     }
   ]
 }
