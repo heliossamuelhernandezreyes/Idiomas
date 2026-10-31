@@ -223,8 +223,8 @@ No crear todavía un verbo para «escuchar» ni asumir que el orden conversacion
 - **oroberas** = «tal vez antes», con referencia anterior/pasada.
 - **Monda** = «día», también documentado históricamente en *Ikis do Monda*.
 - **monech** = «mañana» (día siguiente).
-- **monigo** fue señalado como **incorrecto** dentro de la traducción inicial de «Tal vez mañana correré». El creador consideró que **monihdo** sería **más correcto**, aunque no definió todavía la estructura ni la traducción aislada de *monihdo*.
+- **monigo** fue señalado como **incorrecto** dentro de la traducción inicial de «Tal vez mañana correré». El creador lo reemplazaría por **monihdo**. **Nueva confirmación explícita:** **monihdo = «mañana yo haré»**, no simplemente «mañana». Es una expresión que contiene referencia temporal y a la acción propia futura, aunque su segmentación morfológica interna todavía no se ha explicado.
 
-**Ejemplo conservado:** *oroboros monigo acrosh* — «Tal vez mañana correré» (redacción anterior que el creador está corrigiendo). La posible sustitución **oroboros monihdo acrosh** es **reconstrucción editorial, no oración completa confirmada directamente**.
+**Ejemplo conservado:** *oroboros monigo acrosh* — «Tal vez mañana correré» (redacción anterior que el creador está corrigiendo). **El creador confirma ahora «oroboros monihdo» = «tal vez mañana yo haré».** La secuencia **oroboros monihdo acrosh**, con *acrosh* como acción «correr», es una **reconstrucción editorial compatible con la corrección**, todavía no una oración completa expresamente ratificada.
 
-**No inferir** una correspondencia uno-a-uno entre *monihdo* y *monech*, ni imponer que *oroboros* incluya literalmente la palabra «mañana». Es posible que la temporalidad se marque de diferentes maneras; las funciones exactas aún no se han desglosado. Tampoco equiparar automáticamente estas partículas con *far'il*, cuya orientación hacia el hablante está establecida de otro modo.
+**Diferencia confirmada:** *monech* = «mañana»; *monihdo* = «mañana yo haré». **Oroboros** aporta incertidumbre: *oroboros monihdo* = «tal vez mañana yo haré». Aún no se ha desglosado la estructura interna de *monihdo* ni su interacción sistemática con diferentes verbos. Tampoco equiparar automáticamente *oroboros* con *far'il*, cuya orientación hacia el hablante está establecida de otro modo.
