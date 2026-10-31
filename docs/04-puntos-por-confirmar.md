@@ -90,3 +90,13 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 **Decisión resuelta:** **lav = querer** y **off = negación**, según elección explícita del creador. **thosloff** es la corrección de la forma negativa de «tú no quieres», frente a *thoslaf* como afirmativa.
 
 **Por precisar:** mecanismo fonológico/morfológico preciso de **thoslaf → thosloff** (el creador habló de alternar *af → off*), posición de *off* al combinarse con otros verbos, y relación con **idof** («yo no hago»). No proponer **lov** como raíz actual ni inventar otras conjugaciones sin evidencia.
+
+## Referencia de dhiel, sei y oposición hablar/escuchar
+
+**Confirmado:**
+- *deimosh* es la grafía preferida («por qué»), frente a *deimos*, más sencilla de pronunciar.
+- *dhiel* puede señalar «conmigo» o «contigo», según la palabra anterior.
+- *sei* indica habla propia y *sei dhiel* puede interpretarse «hablar conmigo».
+- El creador distingue **hablar** como intercambio de ideas de **escuchar** como recepción del habla de un individuo.
+
+**Pendiente:** reglas que resuelven la referencia de *dhiel* en diferentes contextos, y la relación semántica y morfológica entre *sei* (habla propia) y *soie* (decir/hablar). La oración completa fue asociada tanto a «no quieres hablar conmigo» como a «no quieres que te hable»; no se ha confirmado que estas glosas sean indistinguibles siempre. No inventar un verbo «escuchar» ni fijar una persona única para *dhiel*.
