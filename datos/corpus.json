@@ -743,6 +743,16 @@
       "expression": "de houl minas tesa so orofe iè namih",
       "gloss": "el hombre vio ayer que no sabe quién soy",
       "status": "confirmado"
+    },
+    {
+      "expression": "do'",
+      "gloss": "marcador inicial del verbo; referencia afirmativa a tú; propuesta del creador",
+      "status": "propuesta_del_creador"
+    },
+    {
+      "expression": "do'minas",
+      "gloss": "lo viste; do' referencia a tú; min ver; as pasado",
+      "status": "confirmado"
     }
   ]
 }
