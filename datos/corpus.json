@@ -573,6 +573,41 @@
       "expression": "Deimosh thosloff sei dhiel",
       "gloss": "¿Por qué no quieres que te hable?; lectura resultante de correcciones, con matiz alternativo «hablar conmigo»",
       "status": "reconstruido_de_correcciones"
+    },
+    {
+      "expression": "sei sei",
+      "gloss": "tal vez referido al presente",
+      "status": "confirmado"
+    },
+    {
+      "expression": "oroboros",
+      "gloss": "tal vez de orientacion futura",
+      "status": "confirmado"
+    },
+    {
+      "expression": "oroberas",
+      "gloss": "tal vez antes; referido al pasado",
+      "status": "confirmado"
+    },
+    {
+      "expression": "Monda",
+      "gloss": "dia",
+      "status": "confirmado"
+    },
+    {
+      "expression": "monech",
+      "gloss": "mañana",
+      "status": "confirmado"
+    },
+    {
+      "expression": "monigo",
+      "gloss": "forma original posteriormente corregida",
+      "status": "revisado_conflictivo"
+    },
+    {
+      "expression": "monihdo",
+      "gloss": "propuesta como sustitucion de monigo; sentido aislado pendiente",
+      "status": "provisional"
     }
   ]
 }
