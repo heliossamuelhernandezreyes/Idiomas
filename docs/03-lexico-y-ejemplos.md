@@ -220,3 +220,17 @@ La oración original **«Deimos thoslaf sei dhiel»** se conserva en el historia
 **Frase original de la prueba:** *Oroboros monigo acrosh* — «Tal vez mañana correré». El creador corrigió **monigo** y propuso **monihdo**, cuya glosa ya confirmó: «mañana yo haré». **Oroboros monihdo** = «tal vez mañana yo haré» (confirmado). **Monech** = «mañana» por sí solo. *Oroboros monihdo acrosh* es una recomposición de los componentes con el verbo «correr», pendiente de aprobación completa.
 
 Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión modal presente) hasta conocer la relación gramatical entre ambas.
+
+## Construcción condicional: «ildoe erodaga seihil ich»
+
+| Forma | Traducción aportada por el creador |
+|---|---|
+| **ildoe** | yo hubiera hecho por ti o por otros, dependiendo del contexto |
+| **erodaga** | si tú hubieras cumplido cierta condición, aún no especificada |
+| **seihil** | me hubieras dicho; el creador la relaciona directamente con **sei + hil** |
+| **ich** | verbo pedir |
+| **ildoe erodaga seihil ich** | yo lo habría hecho si tú me lo hubieras pedido |
+
+**Distinguir lexemas y análisis:** *ildoe* y *erodaga* fueron descritos como palabras con significado concreto por sí mismas. La interpretación de *seihil ich* como precisión del requisito introducido por *erodaga* es un **análisis de contexto**, no una regla general de subordinación ya demostrada.
+
+**Dato nuevo para el sistema modal:** en *seihil* aparece **hil** con lectura hipotética anterior, pero la función universal de *-hil* sigue por precisar. *Sei* ya se usaba en otras expresiones, y no se ha afirmado que todos sus sentidos sean idénticos.
