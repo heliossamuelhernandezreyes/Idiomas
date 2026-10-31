@@ -72,3 +72,9 @@ Cada nueva aportación debe registrarse como una de estas cuatro situaciones:
 - **SOV y nietch:** «deish jor nietch» es una propuesta, no una decisión gramatical definitiva.
 
 Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidencia.
+
+## Grafía y reducción del verbo «tener»
+
+**Confirmado:** el creador dijo que **ih'ni** es una contracción de **niecth**, y que **ih'ni a lam** puede pronunciarse **inia lam** en habla cotidiana.
+
+**Por aclarar:** *nietch* (grafía previa) frente a *niecth* (grafía aportada al explicar la contracción); orden y contexto de los sonidos eliminados o asimilados; si existen reglas productivas de contracción para otros verbos. No corregir una grafía por conjetura.
