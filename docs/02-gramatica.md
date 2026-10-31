@@ -277,6 +277,27 @@ No crear todavía un verbo para «escuchar» ni asumir que el orden conversacion
 - **namih** = «soy yo», con orientación **más interna**.
 - **iè namih** equivale a «quién soy» **sin intención interrogativa** dentro de la oración compleja. Una pregunta directa de «quién soy» utilizaría el interrogativo tradicional **degosh**; no se ha fijado su forma completa como oración independiente.
 
-**Análisis pendiente, no regla confirmada:** *de houl minas tesa* transmite dentro del ejemplo el sentido «el hombre que conocí ayer» sin que el creador haya identificado un morfema independiente equivalente al relativo español «que». La estructura relativa podría depender del orden y del contexto, pero no debe declararse formalmente una regla de subordinación hasta contar con más ejemplos.
+**Actualización posterior:** el creador propuso utilizar opcionalmente **di'** y **de'** antes del verbo para precisar la perspectiva de la acción en esta clase de oración. *Di'minas* = «vi», *de'minas* = «vio». Son **marcadores de referencia personal verbal**, no traducciones literales del relativo «que»; la estructura sin marca sigue siendo una opción contextual según el creador.
 
 **Precaución sobre negación:** **orofe** ya está definido como verbo léxico «desconocer»; no asumir automáticamente que es una conjugación de *orome* con la partícula **off**. La similitud ortográfica por sí sola no confirma su composición morfológica.
+
+## 16. di' y de' — referencia personal al comienzo del verbo
+
+**Regla definida explícitamente por el creador:**
+
+- **di'** indica una acción **en relación con uno mismo**, cuando está colocado **al inicio del verbo y seguido de apóstrofo**.
+- **de'** indica una acción **en relación con otro individuo**, como contraste con *di'*.
+- **di'minas** = «vi», pasado.
+- **de'minas** = «vio», pasado.
+- **min** = ver; **-as** = pasado. Los prefijos *di'* y *de'* no reemplazan la marca temporal.
+
+**Ejemplos de contraste planteados por el creador:**
+- **de houl di'minas tesa orofe iè namih**: se propone para el sentido «el hombre que yo vi ayer no sabe quién soy».
+- **de houl de'minas tesa orofe iè namih**: se propone para el otro caso, «el hombre que me vio ayer no sabe quién soy». **Importante:** *de'minas* significa estrictamente «vio»; que el objeto sea «me» se recupera del contexto de esta comparación, **no está codificado expresamente en de'**.
+- **de houl minas tesa so orofe iè namih**: el creador dio como contraste la lectura «el hombre vio ayer que no sabe quién soy». **So** aparece en un ejemplo de unión entre proposiciones; **no** se ha establecido como relativo o conjunción universal.
+
+**Distinguir «de» de «de'»:** *de houl* = «el hombre»; *de'minas* contiene el prefijo preverbal con apóstrofo. Que ambos compartan letras **no** demuestra que representen el mismo morfema.
+
+**Límites documentales:** el par *di'/de'* está confirmado con *minas* y la regla de posición inicial. Aún no sabemos si se combina sin restricciones con todos los tiempos y verbos, si es obligatorio en alguna construcción o qué pasa al expresar un objeto explícito distinto del hablante.
+
+Es una marca de perspectiva personal que puede desambiguar quién ejecuta la acción sin imponer un relativo equivalente a «que» en todas las oraciones.
