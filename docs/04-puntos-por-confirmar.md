@@ -100,3 +100,11 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 - El creador distingue **hablar** como intercambio de ideas de **escuchar** como recepción del habla de un individuo.
 
 **Pendiente:** reglas que resuelven la referencia de *dhiel* en diferentes contextos, y la relación semántica y morfológica entre *sei* (habla propia) y *soie* (decir/hablar). La oración completa fue asociada tanto a «no quieres hablar conmigo» como a «no quieres que te hable»; no se ha confirmado que estas glosas sean indistinguibles siempre. No inventar un verbo «escuchar» ni fijar una persona única para *dhiel*.
+
+## Posibilidad temporal y término de mañana
+
+**Confirmado:** *sei sei* = «tal vez» del presente; *oroboros* = «tal vez/maybe» con orientación futura o hacia mañana; *oroberas* = «tal vez antes»; *Monda* = día; *monech* = mañana.
+
+**En revisión:** la traducción original *oroboros monigo acrosh* contenía *monigo*, que el creador considera incorrecta y sugiere sustituir por **monihdo**. Aún se desconoce si *monihdo* tiene un sentido temporal o de conjugación, y cómo contrasta con **monech**.
+
+**No resolver por cuenta propia:** el alcance exacto de la temporalidad en *oroboros*, relación *sei sei* frente a *sei* de «habla propia», y si hay redundancia entre la partícula de futuro incierto y una expresión explícita de «mañana».
