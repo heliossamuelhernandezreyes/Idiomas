@@ -211,7 +211,7 @@
     },
     {
       "expression": "deimosh",
-      "gloss": "por qué",
+      "gloss": "por qué; grafía preferida explícitamente por el creador",
       "status": "confirmado"
     },
     {
@@ -548,6 +548,31 @@
       "expression": "Deimos thoslaf sei dhiel",
       "gloss": "¿Por qué no quieres hablar conmigo?; oración aportada inicialmente, luego corregida en thosloff",
       "status": "revisado_conflictivo"
+    },
+    {
+      "expression": "deimos",
+      "gloss": "por qué; forma más fácil de pronunciar, pero deimosh es grafía preferida",
+      "status": "confirmado_variante"
+    },
+    {
+      "expression": "sei",
+      "gloss": "habla propia, en la construcción sei dhiel",
+      "status": "confirmado"
+    },
+    {
+      "expression": "dhiel",
+      "gloss": "conmigo / contigo, según la palabra anterior",
+      "status": "confirmado"
+    },
+    {
+      "expression": "sei dhiel",
+      "gloss": "hablar conmigo, interpretación contextual aportada por el creador",
+      "status": "confirmado"
+    },
+    {
+      "expression": "Deimosh thosloff sei dhiel",
+      "gloss": "¿Por qué no quieres que te hable?; lectura resultante de correcciones, con matiz alternativo «hablar conmigo»",
+      "status": "reconstruido_de_correcciones"
     }
   ]
 }
