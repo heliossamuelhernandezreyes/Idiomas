@@ -483,6 +483,26 @@
       "expression": "deish nietch na jor",
       "gloss": "ellos tienen un humano, propuesta de orden SVO aún experimental",
       "status": "experimental"
+    },
+    {
+      "expression": "niecth",
+      "gloss": "tengo; grafía utilizada al explicar la contracción de ih'ni; antes nietch",
+      "status": "confirmado_variante_ortografica_pendiente"
+    },
+    {
+      "expression": "ih'ni",
+      "gloss": "tengo, contracción de niecth (forma indicada por el creador)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ih'ni a lam",
+      "gloss": "yo tengo un nombre",
+      "status": "confirmado"
+    },
+    {
+      "expression": "inia lam",
+      "gloss": "realización hablada cotidiana de ih'ni a lam",
+      "status": "confirmado"
     }
   ]
 }
