@@ -152,3 +152,15 @@ El vocabulario anterior (2025) está preservado por separado en [05 — antecede
 - **nanya** = 10; **nanyana** = 11; **nanyanie** = 12; **nienyagom** = 25; **kendashnienyafa** = **629** (el creador corrigió expresamente la cifra 619); la función independiente de *dash* queda por documentar.
 
 Consultar [sistema numérico actual](07-numeracion-2026.md). No modificar el valor registrado para 619 mediante cálculo especulativo.
+
+## Contracción de «tener» y frase en habla cotidiana
+
+| Forma | Significado y observación |
+|---|---|
+| nietch | «tengo», grafía aportada inicialmente |
+| niecth | forma escrita al explicar la contracción; relación exacta de las grafías pendiente |
+| ih'ni | contracción de «niecth» para «tengo» |
+| ih'ni a lam | yo tengo un nombre |
+| inia lam | realización hablada posible de «ih'ni a lam» |
+
+La **contracción** no debe confundirse con el verbo general conjugado sin restricciones: se documenta solo el ejemplo que dio el creador.
