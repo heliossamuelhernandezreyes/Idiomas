@@ -638,6 +638,76 @@
       "expression": "ildoe erodaga seihil ich",
       "gloss": "yo lo habría hecho si tú me lo hubieras pedido",
       "status": "confirmado"
+    },
+    {
+      "expression": "de houl",
+      "gloss": "el hombre",
+      "status": "confirmado"
+    },
+    {
+      "expression": "houl",
+      "gloss": "hombre (distinto de jor: humano)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "min",
+      "gloss": "ver",
+      "status": "confirmado"
+    },
+    {
+      "expression": "-as",
+      "gloss": "marca de pasado",
+      "status": "confirmado"
+    },
+    {
+      "expression": "minas",
+      "gloss": "min + as; vi/he visto en ejemplo; marcador de pasado, no tiempo perfecto universal",
+      "status": "confirmado"
+    },
+    {
+      "expression": "tesa",
+      "gloss": "ayer",
+      "status": "confirmado"
+    },
+    {
+      "expression": "orofe",
+      "gloss": "desconocer (verbo)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "orome",
+      "gloss": "conocer (verbo)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "iè",
+      "gloss": "indicador de identidad sin pregunta; grafía en oración original",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ie",
+      "gloss": "indicador de identidad sin pregunta; grafía usada en la explicación",
+      "status": "confirmado_variante"
+    },
+    {
+      "expression": "namih",
+      "gloss": "soy yo; identidad más interna",
+      "status": "confirmado"
+    },
+    {
+      "expression": "ik nam",
+      "gloss": "yo soy; identidad explícita",
+      "status": "confirmado"
+    },
+    {
+      "expression": "iè namih",
+      "gloss": "quién soy, identidad no interrogativa en el contexto",
+      "status": "confirmado"
+    },
+    {
+      "expression": "de houl minas tesa orofe iè namih",
+      "gloss": "el hombre que conocí ayer no sabe quién soy",
+      "status": "confirmado"
     }
   ]
 }
