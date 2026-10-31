@@ -301,3 +301,27 @@ No crear todavía un verbo para «escuchar» ni asumir que el orden conversacion
 **Límites documentales:** el par *di'/de'* está confirmado con *minas* y la regla de posición inicial. Aún no sabemos si se combina sin restricciones con todos los tiempos y verbos, si es obligatorio en alguna construcción o qué pasa al expresar un objeto explícito distinto del hablante.
 
 Es una marca de perspectiva personal que puede desambiguar quién ejecuta la acción sin imponer un relativo equivalente a «que» en todas las oraciones.
+
+## 17. do' — orientación afirmativa hacia el interlocutor
+
+**Nueva propuesta del creador:** **do'** colocado al **principio de un verbo y con apóstrofo** expresa una relación afirmativa con **«tú»**. El ejemplo dado es **do'minas** = **«lo viste»**, con *min* («ver») y *-as* (pasado).
+
+**Contraste de las tres formas aportadas:**
+
+| Forma | Traducción explícita | Orientación |
+|---|---|---|
+| **di'minas** | «vi» | hacia el propio hablante |
+| **do'minas** | «lo viste» | hacia el interlocutor («tú»), en afirmación |
+| **de'minas** | «vio» | hacia otro individuo |
+
+La referencia a **«lo»** en *do'minas* está incluida en la glosa dada, pero **no está demostrado** que la marca *do'* codifique el objeto «lo» independientemente del contexto.
+
+### Relación tentativa entre tres usos de do
+
+- **do** como verbo independiente: «hacer» / «hago».
+- **-do** como elemento final en **akroshdo** = «estoy corriendo» (ejemplo de acción progresiva).
+- **do'** como marcador inicial de referencia a «tú», en **do'minas** = «lo viste».
+
+El creador señala que el **parentesco de formas es curioso** y que ambas posiciones de *do* se relacionan con la idea de **acción**. Esto es **una intuición lingüística del creador**, no una etimología demostrada. En particular, tampoco se ha confirmado que el valor «afirmativo» de *do'* se oponga formalmente a **off** (negación), ni cómo se combina con esta partícula.
+
+**Estado:** el ejemplo *do'minas* está confirmado, pero la productividad de *do'* con todos los verbos y tiempos sigue siendo una propuesta en desarrollo.
