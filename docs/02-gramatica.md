@@ -325,3 +325,21 @@ La referencia a **«lo»** en *do'minas* está incluida en la glosa dada, pero *
 El creador señala que el **parentesco de formas es curioso** y que ambas posiciones de *do* se relacionan con la idea de **acción**. Esto es **una intuición lingüística del creador**, no una etimología demostrada. En particular, tampoco se ha confirmado que el valor «afirmativo» de *do'* se oponga formalmente a **off** (negación), ni cómo se combina con esta partícula.
 
 **Estado:** el ejemplo *do'minas* está confirmado, pero la productividad de *do'* con todos los verbos y tiempos sigue siendo una propuesta en desarrollo.
+
+## 18. Oración relativa validada con futuro y pasado
+
+**Confirmación explícita del creador (31-10-2026):**
+
+**Do'minal de houl di'minas tesa.** — **«Verás al hombre que vi ayer».**
+
+El creador confirmó que la oración le parece **correcta y fluida** en su idioma, tras haberse construido inicialmente como propuesta analítica.
+
+Análisis:
+- **do'min-al**: «verás», referencia al interlocutor **do'** + **min** («ver») + **-al** (futuro confirmado).
+- **de houl**: «el hombre».
+- **di'min-as**: «vi», referencia al hablante **di'** + **min** («ver») + **-as** (pasado).
+- **tesa**: «ayer».
+
+**Consecuencia respaldada:** al menos para el verbo *min*, las marcas de perspectiva personal **di' / do'** combinan con terminaciones distintas de tiempo, y esta estructura sin relativo independiente funciona de manera natural para el creador.
+
+**Límite:** la aceptación de este ejemplo no prueba automáticamente que todos los verbos admitan cualquier combinación, ni fija una regla universal de subordinación para toda la lengua.
