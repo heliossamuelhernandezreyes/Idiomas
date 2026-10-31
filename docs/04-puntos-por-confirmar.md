@@ -122,9 +122,19 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 **Confirmado en nueva oración del creador:** **de houl minas tesa orofe iè namih** = «El hombre que conocí ayer no sabe quién soy». *Houl* = hombre (diferente de *jor* humano); *min* = ver; *-as* = indicador de pasado; *minas* = forma pasada (comparada por el creador con *have seen*); *tesa* = ayer; *orofe* = desconocer; *orome* = conocer; *iè/ie* = indicador de identidad sin pregunta; *namih* = «soy yo» más interno que *ik nam* («yo soy»). Para una pregunta directa sobre identidad el creador utilizaría *degosh*.
 
 **Cuestiones abiertas:**
-- ¿Qué marca exactamente el relativo «que» en la secuencia *de houl minas tesa*, o queda implicado por la construcción?
+- El creador ya propuso **di'** («relación con el hablante») y **de'** («relación con otro individuo») al comienzo de verbos, con apóstrofo: *di'minas* = «vi», *de'minas* = «vio». **Pendiente:** cuándo se prefieren frente a la forma implícita *minas* y si funcionan con otros verbos y tiempos.
 - ¿Existe una diferencia productiva entre *iè* y *ie* o se trata solo de escritura?
 - ¿Cuál es la distribución y el orden sintáctico de *namih* frente a *ih nam* fuera de esta oración?
 - ¿Cómo se expresa el pasado de otros verbos con *-as*? Evitar equiparar *-as* automáticamente al *present perfect* inglés, pese a la analogía usada en el ejemplo.
 - ¿Hay relación morfológica entre *orofe* y *orome*? No afirmar que *orofe* contenga necesariamente la negación *off*.
 - ¿El grupo *de houl* confirma un artículo definido *de* productivo? El significado completo está confirmado, pero falta una regla general.
+
+## di' / de' y conectores proposicionales: estado de validación
+
+**Confirmado por el creador:** **di'** precede al verbo con apóstrofo para una relación personal orientada hacia uno mismo, mientras **de'** marca relación hacia otro individuo. **Di'minas** = «vi» y **de'minas** = «vio», ambas pasadas (*min* + *-as*). Se propusieron para aclarar quién vio a quién en la oración con *de houl*.
+
+**Matiz que no debe inventarse:** **de'minas = «vio»**, no «me vio» de modo autónomo: el objeto de la acción sigue dependiendo del contexto o de otras marcas por definir.
+
+**Otro ejemplo confirmado:** **de houl minas tesa so orofe iè namih** recibió la glosa «el hombre vio ayer que no sabe quién soy». Todavía no se conoce el comportamiento de **so** en más construcciones, ni cómo se diferencia de un relativo que describe a *houl*.
+
+**Pendiente:** compatibilidad de *di'/de'* con prefijos de persona ya existentes (*dei*, *tho*, *ik*), función del apóstrofo fuera de estas construcciones, posibilidad de objetos distintos del hablante, obligatoriedad u opcionalidad de la explicitación y reglas generales de subordinación.
