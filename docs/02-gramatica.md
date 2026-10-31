@@ -228,3 +228,22 @@ No crear todavía un verbo para «escuchar» ni asumir que el orden conversacion
 **Ejemplo conservado:** *oroboros monigo acrosh* — «Tal vez mañana correré» (redacción anterior que el creador está corrigiendo). **El creador confirma ahora «oroboros monihdo» = «tal vez mañana yo haré».** La secuencia **oroboros monihdo acrosh**, con *acrosh* como acción «correr», es una **reconstrucción editorial compatible con la corrección**, todavía no una oración completa expresamente ratificada.
 
 **Diferencia confirmada:** *monech* = «mañana»; *monihdo* = «mañana yo haré». **Oroboros** aporta incertidumbre: *oroboros monihdo* = «tal vez mañana yo haré». Aún no se ha desglosado la estructura interna de *monihdo* ni su interacción sistemática con diferentes verbos. Tampoco equiparar automáticamente *oroboros* con *far'il*, cuya orientación hacia el hablante está establecida de otro modo.
+
+## 14. Condicional retrospectivo y construcciones semánticas completas
+
+**Explicación directa del creador** de la traducción **«ildoe erodaga seihil ich»** para «Yo lo habría hecho si tú me lo hubieras pedido»:
+
+| Elemento | Significado explicado |
+|---|---|
+| **ildoe** | «yo hubiera hecho por ti» o «por otros», según el contexto. El creador especificó que **la palabra tiene un significado concreto en conjunto** |
+| **erodaga** | «si tú hubieras cumplido cierta condición», **sin precisar todavía cuál**; expresión condicional con significado propio |
+| **seihil** | «me hubieras dicho»; el creador la explica como combinación de **sei** y **hil** |
+| **ich** | verbo «pedir» |
+
+**Oración completa:** **ildoe erodaga seihil ich** = «Yo lo habría hecho si tú me lo hubieras pedido» (traducción original del creador).
+
+**Análisis lingüístico prudente:** *erodaga* introduce una condición hipotética inicialmente inespecífica y la secuencia posterior *seihil ich* parece concretarla en una petición comunicada al hablante. Ese análisis de cómo se conectan las partes es interpretativo; los significados de las cuatro unidades proceden directamente del creador.
+
+**Relación con la modalidad ya conocida:** el uso explícito de **sei + hil → seihil** («me hubieras dicho») añade un ejemplo de **-hil** en construcción contrafactual/hipotética anterior. **No** implica que *-hil* codifique por sí solo siempre pasado ni resuelve la ambigüedad previa de *akroshil/akroshhil*. *Sei* ya se documentaba como «habla propia» en *sei dhiel* y aparece también en *sei sei*; no reducir todos sus usos automáticamente a una sola función sin reglas adicionales.
+
+**No imponer segmentaciones** interiores a *ildoe* o *erodaga*: el creador precisó que son palabras con un significado propio y completo. El beneficiario de *ildoe* es contextual: no se restringe permanentemente a la segunda persona.
