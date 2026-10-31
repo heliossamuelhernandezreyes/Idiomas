@@ -204,3 +204,19 @@ Las variantes anteriormente mencionadas *laff* y *lav* corresponden al proceso d
 **Matiz semántico explícito:** en el idioma del creador «hablar» puede implicar **intercambio de ideas**, mientras **escuchar** solo exige recibir el habla de otra persona. No se ha establecido la forma léxica de «escuchar». La segmentación fonológica exacta de *dhiel* y la oposición detallada *sei / soie* siguen abiertas.
 
 La oración original **«Deimos thoslaf sei dhiel»** se conserva en el historial: *deimosh* es la ortografía preferida, y *thosloff* sustituye la forma afirmativa *thoslaf* cuando se busca negación.
+
+## Expresiones de incertidumbre temporal y calendario (aportación posterior)
+
+| Forma | Valor dado por el creador | Estado |
+|---|---|---|
+| **sei sei** | «tal vez» referido al presente | Confirmado |
+| **oroboros** | «tal vez / maybe», posibilidad orientada a mañana o el futuro | Confirmado contextual |
+| **oroberas** | «tal vez antes», referencia a pasado/anterioridad | Confirmado |
+| **Monda** | día | Confirmado, también histórico |
+| **monech** | mañana | Confirmado |
+| **monigo** | palabra inicial en «oroboros monigo acrosh», después rechazada por el creador | Revisión |
+| **monihdo** | propuesta como forma más correcta en lugar de *monigo*, sin glosa aislada aún | Provisional |
+
+**Frase original de la prueba:** *Oroboros monigo acrosh* — «Tal vez mañana correré». El creador corrigió **monigo** y propuso **monihdo**. **No** se ha definido que *monihdo* signifique por sí solo «mañana»: para ese significado se proporcionó **monech**. El posible enunciado *oroboros monihdo acrosh* es una recomposición de los componentes, pendiente de aprobación.
+
+Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión modal presente) hasta conocer la relación gramatical entre ambas.
