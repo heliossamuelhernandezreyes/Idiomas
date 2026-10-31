@@ -503,6 +503,26 @@
       "expression": "inia lam",
       "gloss": "realización hablada cotidiana de ih'ni a lam",
       "status": "confirmado"
+    },
+    {
+      "expression": "maneish",
+      "gloss": "necesitan",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deimanish",
+      "gloss": "ellos necesitan; cantidad del objeto no especificada",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deimaneish",
+      "gloss": "ellos necesitan varios elementos; pluralidad del objeto explícita",
+      "status": "confirmado"
+    },
+    {
+      "expression": "deimaneish tu jor's",
+      "gloss": "ellos necesitan tres humanos",
+      "status": "confirmado"
     }
   ]
 }
