@@ -236,7 +236,7 @@ No crear todavía un verbo para «escuchar» ni asumir que el orden conversacion
 | Elemento | Significado explicado |
 |---|---|
 | **ildoe** | «yo hubiera hecho por ti» o «por otros», según el contexto. El creador especificó que **la palabra tiene un significado concreto en conjunto** |
-| **erodaga** | «si tú hubieras cumplido cierta condición», **sin precisar todavía cuál**; expresión condicional con significado propio |
+| **erodaga** | «si se hubiera cumplido cierta condición», **sin especificar persona ni el contenido de la condición**; uso general preferido por el creador |
 | **seihil** | «me hubieras dicho»; el creador la explica como combinación de **sei** y **hil** |
 | **ich** | verbo «pedir» |
 
@@ -247,3 +247,5 @@ No crear todavía un verbo para «escuchar» ni asumir que el orden conversacion
 **Relación con la modalidad ya conocida:** el uso explícito de **sei + hil → seihil** («me hubieras dicho») añade un ejemplo de **-hil** en construcción contrafactual/hipotética anterior. **No** implica que *-hil* codifique por sí solo siempre pasado ni resuelve la ambigüedad previa de *akroshil/akroshhil*. *Sei* ya se documentaba como «habla propia» en *sei dhiel* y aparece también en *sei sei*; no reducir todos sus usos automáticamente a una sola función sin reglas adicionales.
 
 **No imponer segmentaciones** interiores a *ildoe* o *erodaga*: el creador precisó que son palabras con un significado propio y completo. El beneficiario de *ildoe* es contextual: no se restringe permanentemente a la segunda persona.
+
+**Revisión posterior de erodaga:** el creador prefiere que el término sea **impersonal/general**, no ligado intrínsecamente a «tú». El contenido y los participantes de la condición se establecen mediante el resto de la oración (como *seihil ich*), no mediante *erodaga* por sí solo. La glosa anterior («si tú hubieras cumplido cierta condición») queda registrada como interpretación histórica del ejemplo, no como significado inherente. El alcance preciso de *erodaga* en otros tipos de condición todavía necesita ejemplos.
