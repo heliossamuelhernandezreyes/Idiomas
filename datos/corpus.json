@@ -708,6 +708,41 @@
       "expression": "de houl minas tesa orofe iè namih",
       "gloss": "el hombre que conocí ayer no sabe quién soy",
       "status": "confirmado"
+    },
+    {
+      "expression": "di'",
+      "gloss": "elemento preverbal con apóstrofo que vincula la acción con uno mismo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "de'",
+      "gloss": "elemento preverbal con apóstrofo que vincula la acción con otro individuo",
+      "status": "confirmado"
+    },
+    {
+      "expression": "di'minas",
+      "gloss": "vi (min = ver, -as = pasado; relación con uno mismo)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "de'minas",
+      "gloss": "vio (min = ver, -as = pasado; relación con otro individuo)",
+      "status": "confirmado"
+    },
+    {
+      "expression": "de houl di'minas tesa orofe iè namih",
+      "gloss": "el hombre que yo vi ayer no sabe quién soy; construcción propuesta por el creador",
+      "status": "propuesta_del_creador"
+    },
+    {
+      "expression": "de houl de'minas tesa orofe iè namih",
+      "gloss": "el hombre que me vio ayer no sabe quién soy; objeto me contextual, no codificado por de'",
+      "status": "propuesta_del_creador"
+    },
+    {
+      "expression": "de houl minas tesa so orofe iè namih",
+      "gloss": "el hombre vio ayer que no sabe quién soy",
+      "status": "confirmado"
     }
   ]
 }
