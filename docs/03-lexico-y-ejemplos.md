@@ -236,3 +236,25 @@ Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión 
 **Dato nuevo para el sistema modal:** en *seihil* aparece **hil** con lectura hipotética anterior, pero la función universal de *-hil* sigue por precisar. *Sei* ya se usaba en otras expresiones, y no se ha afirmado que todos sus sentidos sean idénticos.
 
 **Corrección semántica:** *erodaga* se entiende preferentemente como conector o expresión condicional **general**. La referencia a «tú» en la traducción de *ildoe erodaga seihil ich* procede de la construcción que desarrolla la condición, no de *erodaga* aislada. La glosa anterior se conserva en el historial, pero no define la palabra de manera fija.
+
+## Oración compleja: identidad indirecta y pasado de «ver»
+
+**Frase del creador:** **de houl minas tesa orofe iè namih** = «El hombre que conocí ayer no sabe quién soy».
+
+| Forma | Significado dado por el creador |
+|---|---|
+| **de houl** | el hombre |
+| **houl** | hombre, distinto de **jor** («humano / humanos») |
+| **min** | ver |
+| **-as** | indicador de pasado |
+| **minas** | *min* + *-as*, forma pasada asociada por el creador a *have seen* |
+| **tesa** | ayer |
+| **orofe** | desconocer |
+| **orome** | conocer |
+| **iè / ie** | indicador de identidad, sin pregunta |
+| **namih** | soy yo, con identificación más interna |
+| **ik nam** | yo soy, identidad explícita |
+| **ih nam** | soy, variante con debilitamiento de *ik* |
+| **iè namih** | quién soy, en contexto de identidad no interrogativa |
+
+**Notas:** no identificar automáticamente *orofe* con *orome + off*. No convertir *minas* en un pasado perfecto obligatorio; el creador indicó que *-as* marca pasado. La relación con el «que» subordinante se entiende por la oración completa, pero el creador todavía no ha aportado una descomposición específica de esa subordinación.
