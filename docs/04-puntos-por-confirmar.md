@@ -116,3 +116,15 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 **Pendiente de examinar sin alterar el canon:** el mecanismo de composición interno de *ildoe* y *erodaga* (el creador enfatiza que son unidades de significado concreto); si *erodaga* introduce subordinadas de condición de manera productiva; los contextos que resuelven «por ti» frente a «por otros» en *ildoe*; el papel exacto de *ich* en *seihil ich*; y las restricciones de **-hil** más allá de este ejemplo. No convertir el valor de *seihil* en prueba de que todos los verbos con *-hil* representan necesariamente pasado.
 
 **Aclaración nueva:** el creador considera más apropiado que *erodaga* sea una construcción condicional **no personal**. Se ha corregido la antigua descripción vinculada a la segunda persona. Por definir: si puede introducir todo tipo de condiciones, incluidas las no contrafactuales, o si mantiene necesariamente el sentido retrospectivo de «hubiera».
+
+## Conocimiento, ver en pasado e identidad indirecta
+
+**Confirmado en nueva oración del creador:** **de houl minas tesa orofe iè namih** = «El hombre que conocí ayer no sabe quién soy». *Houl* = hombre (diferente de *jor* humano); *min* = ver; *-as* = indicador de pasado; *minas* = forma pasada (comparada por el creador con *have seen*); *tesa* = ayer; *orofe* = desconocer; *orome* = conocer; *iè/ie* = indicador de identidad sin pregunta; *namih* = «soy yo» más interno que *ik nam* («yo soy»). Para una pregunta directa sobre identidad el creador utilizaría *degosh*.
+
+**Cuestiones abiertas:**
+- ¿Qué marca exactamente el relativo «que» en la secuencia *de houl minas tesa*, o queda implicado por la construcción?
+- ¿Existe una diferencia productiva entre *iè* y *ie* o se trata solo de escritura?
+- ¿Cuál es la distribución y el orden sintáctico de *namih* frente a *ih nam* fuera de esta oración?
+- ¿Cómo se expresa el pasado de otros verbos con *-as*? Evitar equiparar *-as* automáticamente al *present perfect* inglés, pese a la analogía usada en el ejemplo.
+- ¿Hay relación morfológica entre *orofe* y *orome*? No afirmar que *orofe* contenga necesariamente la negación *off*.
+- ¿El grupo *de houl* confirma un artículo definido *de* productivo? El significado completo está confirmado, pero falta una regla general.
