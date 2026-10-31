@@ -45,3 +45,7 @@ El creador explicó que **ih'ni** es contracción de una forma de «tengo», esc
 En 2026 el creador especificó dos **elementos preverbalmente escritos con apóstrofo**: **di'** para orientar la acción hacia el propio hablante y **de'** para orientarla hacia otro individuo. Requieren aparecer **al comienzo del verbo y con apóstrofo** en esta función. Ejemplos: **di'minas** = «vi» y **de'minas** = «vio»; *min* = ver y *-as* indica pasado.
 
 **No hay contradicción necesaria** con el uso principalmente estético/ortográfico del apóstrofo en *far'il*: la función del signo puede depender de la construcción. La regla de *di'* y *de'* está confirmada para estos ejemplos, sin asumir que el apóstrofo marque siempre la misma categoría en cualquier palabra.
+
+## do' como marca inicial
+
+El creador propuso **do'** al principio del verbo, con apostrofo, para marcar una accion afirmativa relacionada con el interlocutor. **do'minas** = «lo viste»; **di'minas** = «vi»; **de'minas** = «vio». La semejanza con **do** («hacer») y **-do** en **akroshdo** («estoy corriendo») fue observada por el creador como posible parentesco de la nocion de accion. No se ha confirmado que sean el mismo morfema.
