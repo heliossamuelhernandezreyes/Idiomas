@@ -111,6 +111,8 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 
 ## Condicional retrospectivo con «ildoe erodaga seihil ich»
 
-**Confirmado por el creador:** *ildoe* = «yo hubiera hecho por ti / por otros» según contexto; *erodaga* = «si tú hubieras cumplido cierta condición» no especificada; *seihil* = «me hubieras dicho» (de **sei** y **hil**); *ich* = «pedir». La oración completa se traduce «Yo lo habría hecho si tú me lo hubieras pedido».
+**Confirmado por el creador:** *ildoe* = «yo hubiera hecho por ti / por otros» según contexto; *erodaga* = «si se hubiera cumplido cierta condición» **de forma general, sin vinculación inherente a «tú»** (revisión posterior del creador); *seihil* = «me hubieras dicho» (de **sei** y **hil**); *ich* = «pedir». La oración completa se traduce «Yo lo habría hecho si tú me lo hubieras pedido».
 
 **Pendiente de examinar sin alterar el canon:** el mecanismo de composición interno de *ildoe* y *erodaga* (el creador enfatiza que son unidades de significado concreto); si *erodaga* introduce subordinadas de condición de manera productiva; los contextos que resuelven «por ti» frente a «por otros» en *ildoe*; el papel exacto de *ich* en *seihil ich*; y las restricciones de **-hil** más allá de este ejemplo. No convertir el valor de *seihil* en prueba de que todos los verbos con *-hil* representan necesariamente pasado.
+
+**Aclaración nueva:** el creador considera más apropiado que *erodaga* sea una construcción condicional **no personal**. Se ha corregido la antigua descripción vinculada a la segunda persona. Por definir: si puede introducir todo tipo de condiciones, incluidas las no contrafactuales, o si mantiene necesariamente el sentido retrospectivo de «hubiera».
