@@ -214,3 +214,17 @@ La forma **off** está confirmada como elemento gramatical de negación; su real
 **Análisis provisional:** la referencia contextual de *dhiel* sugiere una construcción dependiente del elemento verbal o relacional precedente. Esto **no** confirma una regla universal de concordancia ni una transformación automática entre *sei* y *soie*: *soie* ya estaba documentado como «decir / hablar» y falta describir su relación precisa con *sei*.
 
 No crear todavía un verbo para «escuchar» ni asumir que el orden conversacional equivale a un sistema de voces gramaticales completamente definido.
+
+## 13. Modalidad temporal de posibilidad y expresiones de día/mañana
+
+**Aportación explícita del creador en 2026:**
+- **sei sei** = «tal vez» con orientación al **presente**. No se ha explicado si las dos instancias de *sei* tienen funciones individuales; no confundir esta expresión con **sei** («habla propia») en *sei dhiel*.
+- **oroboros** = «tal vez», comparable con *maybe* del inglés; el creador lo contrapone a *sei sei* y *oroberas* y lo vincula con una posibilidad proyectada hacia **mañana/el futuro**.
+- **oroberas** = «tal vez antes», con referencia anterior/pasada.
+- **Monda** = «día», también documentado históricamente en *Ikis do Monda*.
+- **monech** = «mañana» (día siguiente).
+- **monigo** fue señalado como **incorrecto** dentro de la traducción inicial de «Tal vez mañana correré». El creador consideró que **monihdo** sería **más correcto**, aunque no definió todavía la estructura ni la traducción aislada de *monihdo*.
+
+**Ejemplo conservado:** *oroboros monigo acrosh* — «Tal vez mañana correré» (redacción anterior que el creador está corrigiendo). La posible sustitución **oroboros monihdo acrosh** es **reconstrucción editorial, no oración completa confirmada directamente**.
+
+**No inferir** una correspondencia uno-a-uno entre *monihdo* y *monech*, ni imponer que *oroboros* incluya literalmente la palabra «mañana». Es posible que la temporalidad se marque de diferentes maneras; las funciones exactas aún no se han desglosado. Tampoco equiparar automáticamente estas partículas con *far'il*, cuya orientación hacia el hablante está establecida de otro modo.
