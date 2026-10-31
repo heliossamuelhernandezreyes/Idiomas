@@ -176,3 +176,16 @@ La **contracción** no debe confundirse con el verbo general conjugado sin restr
 | **deimaneish tu jor's** | ellos necesitan tres humanos | Traducción original del creador |
 
 La diferencia entre *deimanish* y *deimaneish* consiste en **no especificar la cantidad** frente a **marcar explícitamente pluralidad del objeto**; la primera **no** significa necesariamente «ellos necesitan un solo elemento». La vocal **e** se asocia con esta distinción **en el par descrito**, sin declararla un marcador universal para todos los verbos. No asumir que *maneish* y *manish* son sinónimos: el creador distingue «necesitan» de «necesitamos».
+
+## Querer y negación (corrección confirmada)
+
+| Forma | Significado / estado |
+|---|---|
+| **lav** | querer — raíz elegida por el creador |
+| **off** | negación — elemento elegido por el creador |
+| **thoslaf** | tú quieres, forma afirmativa previamente reconocida |
+| **thosloff** | tú no quieres, forma negativa indicada directamente por el creador |
+| **deimos thoslaf sei dhiel** | grafía de la oración originalmente dada para «¿Por qué no quieres hablar conmigo?»; negación corregida posteriormente |
+| **deimos thosloff sei dhiel** | reemplazo de *thoslaf* por *thosloff* dentro de la oración previa, **reconstrucción editorial**, no nueva oración íntegra ratificada por el creador |
+
+Las variantes anteriormente mencionadas *laff* y *lav* corresponden al proceso de definición del verbo. El creador eligió **lav**, no **lov**. El componente **off** se acepta como negación, pero su comportamiento en todas las conjugaciones no se deduce automáticamente de este único ejemplo.
