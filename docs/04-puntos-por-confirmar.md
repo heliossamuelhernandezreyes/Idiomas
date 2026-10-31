@@ -108,3 +108,9 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 **Resuelto:** *monihdo* significa **«mañana yo haré»** y *oroboros monihdo* **«tal vez mañana yo haré»**, según confirmación expresa del creador. *Monech* sigue significando «mañana» de forma aislada. **En revisión:** el ejemplo previo *oroboros monigo acrosh*, donde *monigo* se considera incorrecto, y la construcción recombinada *oroboros monihdo acrosh*, aún no ratificada íntegramente.
 
 **No resolver por cuenta propia:** el alcance exacto de la temporalidad en *oroboros*, relación *sei sei* frente a *sei* de «habla propia», y si hay redundancia entre la partícula de futuro incierto y una expresión explícita de «mañana».
+
+## Condicional retrospectivo con «ildoe erodaga seihil ich»
+
+**Confirmado por el creador:** *ildoe* = «yo hubiera hecho por ti / por otros» según contexto; *erodaga* = «si tú hubieras cumplido cierta condición» no especificada; *seihil* = «me hubieras dicho» (de **sei** y **hil**); *ich* = «pedir». La oración completa se traduce «Yo lo habría hecho si tú me lo hubieras pedido».
+
+**Pendiente de examinar sin alterar el canon:** el mecanismo de composición interno de *ildoe* y *erodaga* (el creador enfatiza que son unidades de significado concreto); si *erodaga* introduce subordinadas de condición de manera productiva; los contextos que resuelven «por ti» frente a «por otros» en *ildoe*; el papel exacto de *ich* en *seihil ich*; y las restricciones de **-hil** más allá de este ejemplo. No convertir el valor de *seihil* en prueba de que todos los verbos con *-hil* representan necesariamente pasado.
