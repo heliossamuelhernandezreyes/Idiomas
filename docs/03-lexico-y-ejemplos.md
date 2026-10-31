@@ -272,3 +272,15 @@ Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión 
 | **de houl minas tesa so orofe iè namih** | «el hombre vio ayer que no sabe quién soy»; frase de contraste expresada por el creador |
 
 **Distinción formal:** *de houl* es el sintagma «el hombre», mientras *de'minas* lleva un elemento inicial con apóstrofo. La función de **so** solo está respaldada por esta frase; no generalizarla todavía como «que» universal. Los prefijos no son por sí mismos pronombres relativos, sino marcas de relación personal verbal.
+
+## Pronombre interno preverbal: do'
+
+| Forma | Significado confirmado / propuesto |
+|---|---|
+| **di'minas** | vi; orientación a uno mismo |
+| **do'minas** | lo viste; orientación afirmativa al interlocutor |
+| **de'minas** | vio; orientación hacia otro individuo |
+
+**Nueva propuesta del creador:** **do'** funciona al inicio del verbo, con apóstrofo, con referencia afirmativa hacia «tú». *Do'minas* = «lo viste» es el ejemplo explícito. La glosa con «lo» **no implica todavía** que *do'* sea un marcador de objeto directo.
+
+**Parentesco observado, no demostrado:** *do* («hacer»), *-do* final en *akroshdo* («estoy corriendo»), *do'* inicial en *do'minas*. No sustituir una forma por otra ni aplicar una única regla a las tres.
