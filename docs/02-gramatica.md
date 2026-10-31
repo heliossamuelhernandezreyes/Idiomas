@@ -200,3 +200,17 @@ La distinción deja de tratar *deimanish* y *deimaneish* como formas simplemente
 - Las reglas de negación de todos los tiempos, personas y verbos no están todavía especificadas.
 
 La forma **off** está confirmada como elemento gramatical de negación; su realización exacta en el interior de cada conjugación sigue abierta.
+
+## 12. Referencia personal contextual con dhiel y semántica de comunicación
+
+**Aclaración explícita del creador (2026):**
+
+- **deimosh** es la **grafía preferida** para «por qué»; **deimos** puede resultar más sencillo de pronunciar, pero el creador considera *deimosh* la opción correcta.
+- **dhiel** puede interpretarse como **«conmigo»** o **«contigo»**, dependiendo de la **palabra anterior** y de la orientación de la expresión. No se debe asignar una persona invariable al elemento aislado.
+- **sei** indica **habla propia** dentro del ejemplo. La secuencia **sei dhiel** admite, según el creador, la interpretación **«hablar conmigo»**.
+- El creador explicó una distinción conceptual entre **hablar como intercambio de ideas** y **escuchar**, que puede limitarse a la recepción del habla de un solo individuo; no deben tratarse como acciones idénticas.
+- La oración desarrollada desde **«Deimos thoslaf sei dhiel»** se ajusta por decisiones posteriores a **«Deimosh thosloff sei dhiel»**. El creador la relacionó tanto con la intención original «¿Por qué no quieres hablar conmigo?» como con la reformulación **«¿Por qué no quieres que te hable?»**. Conservar ambos matices sin afirmar que sean equivalentes en todas las circunstancias.
+
+**Análisis provisional:** la referencia contextual de *dhiel* sugiere una construcción dependiente del elemento verbal o relacional precedente. Esto **no** confirma una regla universal de concordancia ni una transformación automática entre *sei* y *soie*: *soie* ya estaba documentado como «decir / hablar» y falta describir su relación precisa con *sei*.
+
+No crear todavía un verbo para «escuchar» ni asumir que el orden conversacional equivale a un sistema de voces gramaticales completamente definido.
