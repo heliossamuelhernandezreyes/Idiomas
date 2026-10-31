@@ -284,3 +284,18 @@ Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión 
 **Nueva propuesta del creador:** **do'** funciona al inicio del verbo, con apóstrofo, con referencia afirmativa hacia «tú». *Do'minas* = «lo viste» es el ejemplo explícito. La glosa con «lo» **no implica todavía** que *do'* sea un marcador de objeto directo.
 
 **Parentesco observado, no demostrado:** *do* («hacer»), *-do* final en *akroshdo* («estoy corriendo»), *do'* inicial en *do'minas*. No sustituir una forma por otra ni aplicar una única regla a las tres.
+
+## Frase nueva confirmada por el creador
+
+**Do'minal de houl di'minas tesa.** — «Verás al hombre que vi ayer».
+
+La oración fue construida usando reglas previamente establecidas y el creador la **ratificó expresamente como correcta y fluida**. Por tanto dejó de ser únicamente un ejemplo hipotético.
+
+| Unidad | Significado |
+|---|---|
+| **do'minal** | verás; *do'* + *min* + *-al* |
+| **de houl** | el hombre |
+| **di'minas** | vi; *di'* + *min* + *-as* |
+| **tesa** | ayer |
+
+Sirve como ejemplo confirmado de combinación de tiempos, marcadores de referencia personal y oración relativa implícita, sin establecer por ello una productividad irrestricta para todos los verbos.
