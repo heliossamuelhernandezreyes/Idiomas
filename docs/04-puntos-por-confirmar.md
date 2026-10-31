@@ -105,6 +105,6 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 
 **Confirmado:** *sei sei* = «tal vez» del presente; *oroboros* = «tal vez/maybe» con orientación futura o hacia mañana; *oroberas* = «tal vez antes»; *Monda* = día; *monech* = mañana.
 
-**En revisión:** la traducción original *oroboros monigo acrosh* contenía *monigo*, que el creador considera incorrecta y sugiere sustituir por **monihdo**. Aún se desconoce si *monihdo* tiene un sentido temporal o de conjugación, y cómo contrasta con **monech**.
+**Resuelto:** *monihdo* significa **«mañana yo haré»** y *oroboros monihdo* **«tal vez mañana yo haré»**, según confirmación expresa del creador. *Monech* sigue significando «mañana» de forma aislada. **En revisión:** el ejemplo previo *oroboros monigo acrosh*, donde *monigo* se considera incorrecto, y la construcción recombinada *oroboros monihdo acrosh*, aún no ratificada íntegramente.
 
 **No resolver por cuenta propia:** el alcance exacto de la temporalidad en *oroboros*, relación *sei sei* frente a *sei* de «habla propia», y si hay redundancia entre la partícula de futuro incierto y una expresión explícita de «mañana».
