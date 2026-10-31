@@ -39,3 +39,9 @@ Los datos de 2025 deben contrastarse con la versión actual, sin darlos por regl
 El creador explicó que **ih'ni** es contracción de una forma de «tengo», escrita previamente **nietch** y ahora **niecth** (la diferencia de orden de letras queda **sin normalizar**). Dio como oración **ih'ni a lam** = «yo tengo un nombre», que en el habla corriente puede realizarse **inia lam**.
 
 **Confirmado:** hay una distinción entre representación ortográfica y reducción propia del habla rápida. **No confirmado:** reglas fonéticas exactas que permitan producir otras contracciones automáticamente; tampoco se ha establecido si *nietch* y *niecth* son grafías alternativas válidas o un desliz de transcripción.
+
+## Apóstrofo como marca de referencia verbal
+
+En 2026 el creador especificó dos **elementos preverbalmente escritos con apóstrofo**: **di'** para orientar la acción hacia el propio hablante y **de'** para orientarla hacia otro individuo. Requieren aparecer **al comienzo del verbo y con apóstrofo** en esta función. Ejemplos: **di'minas** = «vi» y **de'minas** = «vio»; *min* = ver y *-as* indica pasado.
+
+**No hay contradicción necesaria** con el uso principalmente estético/ortográfico del apóstrofo en *far'il*: la función del signo puede depender de la construcción. La regla de *di'* y *de'* está confirmada para estos ejemplos, sin asumir que el apóstrofo marque siempre la misma categoría en cualquier palabra.
