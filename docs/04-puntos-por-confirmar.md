@@ -84,3 +84,9 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 **Acordado explícitamente:** *deimanish* = «ellos necesitan» sin precisar la cantidad del objeto; *deimaneish* = «ellos necesitan varios / una pluralidad de elementos», con marca explícita de número del objeto. Esto **sí es una regla de diseño aceptada**, no una conjetura del analista.
 
 **Todavía por confirmar:** si la vocal **e** funciona así fuera de esta oposición; si la marca es obligatoria cuando aparece un número explícito (*tu jor's*); cómo se comporta frente a *maneish* («necesitan») y otras personas verbales; la segmentación morfológica exacta de los cuatro términos. No confundir la persona plural del sujeto con el número plural del objeto.
+
+## Negación: off y relación con otras formas
+
+**Decisión resuelta:** **lav = querer** y **off = negación**, según elección explícita del creador. **thosloff** es la corrección de la forma negativa de «tú no quieres», frente a *thoslaf* como afirmativa.
+
+**Por precisar:** mecanismo fonológico/morfológico preciso de **thoslaf → thosloff** (el creador habló de alternar *af → off*), posición de *off* al combinarse con otros verbos, y relación con **idof** («yo no hago»). No proponer **lov** como raíz actual ni inventar otras conjugaciones sin evidencia.
