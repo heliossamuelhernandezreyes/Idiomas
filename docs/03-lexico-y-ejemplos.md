@@ -215,8 +215,8 @@ La oración original **«Deimos thoslaf sei dhiel»** se conserva en el historia
 | **Monda** | día | Confirmado, también histórico |
 | **monech** | mañana | Confirmado |
 | **monigo** | palabra inicial en «oroboros monigo acrosh», después rechazada por el creador | Revisión |
-| **monihdo** | propuesta como forma más correcta en lugar de *monigo*, sin glosa aislada aún | Provisional |
+| **monihdo** | «mañana yo haré» | Confirmado explícitamente |
 
-**Frase original de la prueba:** *Oroboros monigo acrosh* — «Tal vez mañana correré». El creador corrigió **monigo** y propuso **monihdo**. **No** se ha definido que *monihdo* signifique por sí solo «mañana»: para ese significado se proporcionó **monech**. El posible enunciado *oroboros monihdo acrosh* es una recomposición de los componentes, pendiente de aprobación.
+**Frase original de la prueba:** *Oroboros monigo acrosh* — «Tal vez mañana correré». El creador corrigió **monigo** y propuso **monihdo**, cuya glosa ya confirmó: «mañana yo haré». **Oroboros monihdo** = «tal vez mañana yo haré» (confirmado). **Monech** = «mañana» por sí solo. *Oroboros monihdo acrosh* es una recomposición de los componentes con el verbo «correr», pendiente de aprobación completa.
 
 Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión modal presente) hasta conocer la relación gramatical entre ambas.
