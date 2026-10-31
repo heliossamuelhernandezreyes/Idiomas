@@ -78,3 +78,9 @@ Ver [auditoría integral](06-auditoria.md) para el alcance y el tipo de evidenci
 **Confirmado:** el creador dijo que **ih'ni** es una contracción de **niecth**, y que **ih'ni a lam** puede pronunciarse **inia lam** en habla cotidiana.
 
 **Por aclarar:** *nietch* (grafía previa) frente a *niecth* (grafía aportada al explicar la contracción); orden y contexto de los sonidos eliminados o asimilados; si existen reglas productivas de contracción para otros verbos. No corregir una grafía por conjetura.
+
+## «Deimanish» / «deimaneish»: decisión resuelta parcialmente
+
+**Acordado explícitamente:** *deimanish* = «ellos necesitan» sin precisar la cantidad del objeto; *deimaneish* = «ellos necesitan varios / una pluralidad de elementos», con marca explícita de número del objeto. Esto **sí es una regla de diseño aceptada**, no una conjetura del analista.
+
+**Todavía por confirmar:** si la vocal **e** funciona así fuera de esta oposición; si la marca es obligatoria cuando aparece un número explícito (*tu jor's*); cómo se comporta frente a *maneish* («necesitan») y otras personas verbales; la segmentación morfológica exacta de los cuatro términos. No confundir la persona plural del sujeto con el número plural del objeto.
