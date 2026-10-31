@@ -33,3 +33,9 @@ Ninguna ilustración propuesta por el asistente equivale a los grafemas original
 - Se ha mencionado escritura vertical en antecedentes generales, pero su dirección exacta y reglas de disposición **no están verificadas con muestras gráficas**.
 
 Los datos de 2025 deben contrastarse con la versión actual, sin darlos por reglas inalterables. Para detalles, consultar [antecedentes de 2025](05-antecedentes-2025.md).
+
+## Contracciones y realización oral (aportación posterior)
+
+El creador explicó que **ih'ni** es contracción de una forma de «tengo», escrita previamente **nietch** y ahora **niecth** (la diferencia de orden de letras queda **sin normalizar**). Dio como oración **ih'ni a lam** = «yo tengo un nombre», que en el habla corriente puede realizarse **inia lam**.
+
+**Confirmado:** hay una distinción entre representación ortográfica y reducción propia del habla rápida. **No confirmado:** reglas fonéticas exactas que permitan producir otras contracciones automáticamente; tampoco se ha establecido si *nietch* y *niecth* son grafías alternativas válidas o un desliz de transcripción.
