@@ -226,7 +226,7 @@ Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión 
 | Forma | Traducción aportada por el creador |
 |---|---|
 | **ildoe** | yo hubiera hecho por ti o por otros, dependiendo del contexto |
-| **erodaga** | si tú hubieras cumplido cierta condición, aún no especificada |
+| **erodaga** | si se hubiera cumplido cierta condición; sin sujeto gramatical incorporado ni condición concreta especificada |
 | **seihil** | me hubieras dicho; el creador la relaciona directamente con **sei + hil** |
 | **ich** | verbo pedir |
 | **ildoe erodaga seihil ich** | yo lo habría hecho si tú me lo hubieras pedido |
@@ -234,3 +234,5 @@ Distinguir **sei** («habla propia» en *sei dhiel*) de **sei sei** (expresión 
 **Distinguir lexemas y análisis:** *ildoe* y *erodaga* fueron descritos como palabras con significado concreto por sí mismas. La interpretación de *seihil ich* como precisión del requisito introducido por *erodaga* es un **análisis de contexto**, no una regla general de subordinación ya demostrada.
 
 **Dato nuevo para el sistema modal:** en *seihil* aparece **hil** con lectura hipotética anterior, pero la función universal de *-hil* sigue por precisar. *Sei* ya se usaba en otras expresiones, y no se ha afirmado que todos sus sentidos sean idénticos.
+
+**Corrección semántica:** *erodaga* se entiende preferentemente como conector o expresión condicional **general**. La referencia a «tú» en la traducción de *ildoe erodaga seihil ich* procede de la construcción que desarrolla la condición, no de *erodaga* aislada. La glosa anterior se conserva en el historial, pero no define la palabra de manera fija.
