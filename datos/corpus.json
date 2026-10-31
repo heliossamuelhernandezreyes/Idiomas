@@ -606,8 +606,13 @@
     },
     {
       "expression": "monihdo",
-      "gloss": "propuesta como sustitucion de monigo; sentido aislado pendiente",
-      "status": "provisional"
+      "gloss": "mañana yo haré",
+      "status": "confirmado"
+    },
+    {
+      "expression": "oroboros monihdo",
+      "gloss": "tal vez mañana yo haré",
+      "status": "confirmado"
     }
   ]
 }
