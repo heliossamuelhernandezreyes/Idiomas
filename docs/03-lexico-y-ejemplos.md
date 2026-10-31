@@ -164,3 +164,15 @@ Consultar [sistema numérico actual](07-numeracion-2026.md). No modificar el val
 | inia lam | realización hablada posible de «ih'ni a lam» |
 
 La **contracción** no debe confundirse con el verbo general conjugado sin restricciones: se documenta solo el ejemplo que dio el creador.
+
+## «Necesitar»: identificación de sujetos y pluralidad del objeto (decisión aceptada)
+
+| Expresión | Traducción / función | Estado |
+|---|---|---|
+| **manish** | necesitamos | Confirmado anteriormente |
+| **maneish** | necesitan | Confirmado por el creador |
+| **deimanish** | ellos necesitan; cantidad del objeto no especificada | Confirmado como regla de diseño |
+| **deimaneish** | ellos necesitan una pluralidad de elementos | Confirmado como regla de diseño |
+| **deimaneish tu jor's** | ellos necesitan tres humanos | Traducción original del creador |
+
+La diferencia entre *deimanish* y *deimaneish* consiste en **no especificar la cantidad** frente a **marcar explícitamente pluralidad del objeto**; la primera **no** significa necesariamente «ellos necesitan un solo elemento». La vocal **e** se asocia con esta distinción **en el par descrito**, sin declararla un marcador universal para todos los verbos. No asumir que *maneish* y *manish* son sinónimos: el creador distingue «necesitan» de «necesitamos».
