@@ -249,3 +249,34 @@ No crear todavía un verbo para «escuchar» ni asumir que el orden conversacion
 **No imponer segmentaciones** interiores a *ildoe* o *erodaga*: el creador precisó que son palabras con un significado propio y completo. El beneficiario de *ildoe* es contextual: no se restringe permanentemente a la segunda persona.
 
 **Revisión posterior de erodaga:** el creador prefiere que el término sea **impersonal/general**, no ligado intrínsecamente a «tú». El contenido y los participantes de la condición se establecen mediante el resto de la oración (como *seihil ich*), no mediante *erodaga* por sí solo. La glosa anterior («si tú hubieras cumplido cierta condición») queda registrada como interpretación histórica del ejemplo, no como significado inherente. El alcance preciso de *erodaga* en otros tipos de condición todavía necesita ejemplos.
+
+## 15. Pasado de ver, conocimiento e identidad no interrogativa
+
+**Nueva oración completa proporcionada por el creador:**
+
+> **de houl minas tesa orofe iè namih** — «El hombre que conocí ayer no sabe quién soy».
+
+**Elementos y funciones definidos explícitamente:**
+
+| Elemento | Glosa y alcance |
+|---|---|
+| **de houl** | «el hombre». **houl** significa «hombre», **distinto de jor** («humano / humanos»). No se ha definido *de* como artículo universal fuera de este sintagma. |
+| **min** | verbo «ver». |
+| **-as** | indicador de **pasado**, confirmado por el creador al explicar *minas*; ya existía *doas* = «yo hice». |
+| **minas** | forma de *min + as*, con un valor pasado que el creador comparó con inglés *have seen*. En esta oración participa en la traducción «que conocí ayer». No afirmar que *-as* sea específicamente equivalente al *present perfect* inglés en todos los contextos; el creador la describe como marcador de pasado. |
+| **tesa** | «ayer». |
+| **orofe** | verbo «desconocer». |
+| **orome** | verbo «conocer». |
+| **iè / ie** | indicador de **identidad no interrogativa**. Ambas grafías aparecen en el ejemplo escrito y su explicación, sin haber sido fijada una única grafía oficial. |
+| **nam** | verbo «ser». |
+| **namih** | «soy yo», con identidad **más interna** que otras formulaciones. |
+
+**Comparación de identidad según el creador:**
+- **ik nam** = «yo soy», con sujeto/identidad explícita.
+- **ih nam** = «soy», forma ya documentada con *k* de *ik* debilitada.
+- **namih** = «soy yo», con orientación **más interna**.
+- **iè namih** equivale a «quién soy» **sin intención interrogativa** dentro de la oración compleja. Una pregunta directa de «quién soy» utilizaría el interrogativo tradicional **degosh**; no se ha fijado su forma completa como oración independiente.
+
+**Análisis pendiente, no regla confirmada:** *de houl minas tesa* transmite dentro del ejemplo el sentido «el hombre que conocí ayer» sin que el creador haya identificado un morfema independiente equivalente al relativo español «que». La estructura relativa podría depender del orden y del contexto, pero no debe declararse formalmente una regla de subordinación hasta contar con más ejemplos.
+
+**Precaución sobre negación:** **orofe** ya está definido como verbo léxico «desconocer»; no asumir automáticamente que es una conjugación de *orome* con la partícula **off**. La similitud ortográfica por sí sola no confirma su composición morfológica.
