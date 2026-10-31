@@ -164,3 +164,22 @@ El artículo **na** también significa **uno** como numeral, confirmado en la se
 El creador aclaró expresamente que **ih'ni** es una contracción de **niecth** (registrada anteriormente como **nietch**, «tengo»). En **ih'ni a lam** expresa «yo tengo un nombre». En la práctica oral la frase puede sonar **inia lam**.
 
 **Cuidado:** no dividir obligatoriamente *ih'ni* en morfemas *ih* + *ni* ni asumir que la secuencia oral *inia* sea una nueva palabra gramatical. La explicación disponible identifica **contracción** y **realización hablada**, pero no da todavía sus reglas fonológicas detalladas. Mantener las dos grafías **nietch / niecth** como variantes documentales cuya estandarización queda pendiente.
+
+## 10. Concordancia con el objeto en «necesitar» (regla aceptada)
+
+El creador propuso y **aceptó expresamente** la siguiente oposición. Es una **decisión de diseño vigente para estas formas**, no una regla universal demostrada para todos los verbos.
+
+| Forma | Valor confirmado o acordado |
+|---|---|
+| **manish** | «necesitamos» (definición anterior; primera persona plural) |
+| **maneish** | «necesitan» (definición explícita posterior) |
+| **deimanish** | «ellos necesitan», **sin especificar cuántos elementos** necesitan |
+| **deimaneish** | «ellos necesitan varios elementos / una pluralidad de objetos»; la pluralidad de lo necesitado queda marcada explícitamente |
+
+**Regla acordada:** **ausencia de marca de pluralidad del objeto ≠ objeto singular**. En *deimanish* la cantidad del objeto no está determinada. En *deimaneish* se indica pluralidad del objeto.
+
+**Análisis provisional de la forma:** la alternancia **deimanish / deimaneish** permite asociar la **e** adicional con la pluralidad del objeto **dentro de esta oposición**. No se ha confirmado que toda *e* en cualquier verbo funcione como morfema de objeto plural, ni que la *e* de *maneish* tenga exactamente ese valor por sí sola. El análisis interno de *dei*, *man*, *-ish* y *-eish* requiere todavía más ejemplos.
+
+**Ejemplo del creador:** *deimaneish tu jor's* = «ellos necesitan tres humanos». Aquí el número *tu* («tres») también aporta información cuantitativa; aún no se ha determinado si la doble indicación de plural es obligatoria, opcional o enfática. *Jor* puede ser «humano/humanos» sin cambio formal, aunque en este ejemplo aparece *jor's*.
+
+La distinción deja de tratar *deimanish* y *deimaneish* como formas simplemente intercambiables o redundantes: pueden expresar **diferentes grados de especificidad sobre la cantidad del objeto**.
