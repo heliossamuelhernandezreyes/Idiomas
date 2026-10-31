@@ -189,3 +189,18 @@ La diferencia entre *deimanish* y *deimaneish* consiste en **no especificar la c
 | **deimos thosloff sei dhiel** | reemplazo de *thoslaf* por *thosloff* dentro de la oración previa, **reconstrucción editorial**, no nueva oración íntegra ratificada por el creador |
 
 Las variantes anteriormente mencionadas *laff* y *lav* corresponden al proceso de definición del verbo. El creador eligió **lav**, no **lov**. El componente **off** se acepta como negación, pero su comportamiento en todas las conjugaciones no se deduce automáticamente de este único ejemplo.
+
+## Intercambio comunicativo, habla propia y referencia contextual
+
+| Forma | Significado / nota |
+|---|---|
+| **deimosh** | por qué; el creador la prefiere como grafía correcta |
+| **deimos** | variante de pronunciación más fácil mencionada; grafía secundaria por ahora |
+| **sei** | habla propia; no equiparar automáticamente con *soie* |
+| **dhiel** | conmigo / contigo, según la palabra anterior |
+| **sei dhiel** | «hablar conmigo», interpretación aportada por el creador |
+| **Deimosh thosloff sei dhiel** | lectura reconstruida a partir de las correcciones; el creador la relaciona con «¿Por qué no quieres que te hable?» y también explica *sei dhiel* como «hablar conmigo» |
+
+**Matiz semántico explícito:** en el idioma del creador «hablar» puede implicar **intercambio de ideas**, mientras **escuchar** solo exige recibir el habla de otra persona. No se ha establecido la forma léxica de «escuchar». La segmentación fonológica exacta de *dhiel* y la oposición detallada *sei / soie* siguen abiertas.
+
+La oración original **«Deimos thoslaf sei dhiel»** se conserva en el historial: *deimosh* es la ortografía preferida, y *thosloff* sustituye la forma afirmativa *thoslaf* cuando se busca negación.
