@@ -158,3 +158,9 @@ A la pregunta del creador de si una construcción SVO sería **«deish nietch na
 Otros ejemplos propios ya dados, como **ik maní na feredar** (SVO) y **dojas thur lam** (VO, imperativo), muestran verbo antes de objeto. **SVO es una recomendación analítica razonable de orden predominante**, no una regla obligatoria anunciada por el creador. La forma experimental anterior **deish jor nietch** es SOV y sigue conservada, no eliminada.
 
 El artículo **na** también significa **uno** como numeral, confirmado en la serie numérica actual; falta saber cuándo lo interpreta el hablante como numeral frente a artículo. Ver [numeración](07-numeracion-2026.md).
+
+## 9. Contracción del verbo «tener»
+
+El creador aclaró expresamente que **ih'ni** es una contracción de **niecth** (registrada anteriormente como **nietch**, «tengo»). En **ih'ni a lam** expresa «yo tengo un nombre». En la práctica oral la frase puede sonar **inia lam**.
+
+**Cuidado:** no dividir obligatoriamente *ih'ni* en morfemas *ih* + *ni* ni asumir que la secuencia oral *inia* sea una nueva palabra gramatical. La explicación disponible identifica **contracción** y **realización hablada**, pero no da todavía sus reglas fonológicas detalladas. Mantener las dos grafías **nietch / niecth** como variantes documentales cuya estandarización queda pendiente.
